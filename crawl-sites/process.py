@@ -4,7 +4,7 @@ import re
 import operator
 import sys
 
-top_n = 20
+top_n = 40
 
 data = {}
 counts = {}

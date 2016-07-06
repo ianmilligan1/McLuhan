@@ -140,7 +140,7 @@ d3.csv("data.csv", function(error, data) {
       .data(color.domain().slice().reverse())
     .enter().append("g")
       .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(120," + i * 20 + ")"; })
+      .attr("transform", function(d, i) { return "translate(120," + i * 10 + ")"; })
       .on("mouseover", function(d, i) {
         d3.selectAll("[domain='" + d + "']").attr("stroke","red").attr("stroke-width",2.0);
         })
@@ -166,7 +166,7 @@ d3.csv("data.csv", function(error, data) {
 
 </script>
 
-<p>This is a visualization of <a href="https://www.archive-it.org/collections/227">Canadian Political Parties and Political Interest Groups</a> web crawls from August 2015 and November 2015, as well as a web archival crawl that was conducted using the URLs tweeted by people on #elxn42 as a seed list. For more information on that method, please see the paper by <a href="https://cs.uwaterloo.ca/~jimmylin/publications/Milligan_etal_JCDL2016.pdf">Ian Milligan, Nick Ruest, and Jimmy Lin on "The Gatekeepers vs the Masses."</a></p>
+<p>This is a visualization of <a href="https://www.archive-it.org/collections/227">Canadian Political Parties and Political Interest Groups</a> web crawls from August 2015 and November 2015, as well as a web archival crawl that was conducted using the URLs tweeted by people on #elxn42 as a seed list. For more information on that method, please see the paper by <a href="http://yorkspace.library.yorku.ca/xmlui/handle/10315/31235">Ian Milligan, Nick Ruest, and Jimmy Lin on "The Gatekeepers vs the Masses."</a></p>
 
 <p><strong>How to use this?</strong> Each bar shows the distribution of pages in that crawl by top-level domain. The legend on the right orders the domains by the number of pages across the <i>entire</i> collection, ordered from the bottom&mdash;that is, the bottom domain has the most pages, the second one from the bottom has the second most pages, etc. The legend breaks out the top 20 domains; everything else is grouped into "other" (at the very top). The stacking of the colors in each column is consistent with the legend ordering. Mousing over a portion of a bar will outline in red the domain across all crawls, as will mousing over any part of the legend.</p>
 
