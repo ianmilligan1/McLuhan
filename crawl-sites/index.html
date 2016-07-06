@@ -37,7 +37,7 @@ p {
 </style>
 <body>
 
-<h1>Visualization of a Web Crawl</h1>
+<h1>Comparing CPP 2015-08, CPP 2015-11, and #ELXN42 Tweeted Domains</h1>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
@@ -165,4 +165,15 @@ d3.csv("data.csv", function(error, data) {
 });
 
 </script>
+
+<p>This is a visualization of <a href="https://www.archive-it.org/collections/227">Canadian Political Parties and Political Interest Groups</a> web crawls from August 2015 and November 2015, as well as a web archival crawl that was conducted using the URLs tweeted by people on #elxn42 as a seed list. For more information on that method, please see the paper by <a href="https://cs.uwaterloo.ca/~jimmylin/publications/Milligan_etal_JCDL2016.pdf">Ian Milligan, Nick Ruest, and Jimmy Lin on "The Gatekeepers vs the Masses."</a></p>
+
+<p><strong>How to use this?</strong> Each bar shows the distribution of pages in that crawl by top-level domain. The legend on the right orders the domains by the number of pages across the <i>entire</i> collection, ordered from the bottom&mdash;that is, the bottom domain has the most pages, the second one from the bottom has the second most pages, etc. The legend breaks out the top 20 domains; everything else is grouped into "other" (at the very top). The stacking of the colors in each column is consistent with the legend ordering. Mousing over a portion of a bar will outline in red the domain across all crawls, as will mousing over any part of the legend.</p>
+
+<p>This visualization was created with d3, based on <a href="http://bl.ocks.org/mbostock/3886208">this example</a> and <a href="http://bl.ocks.org/yuuniverse4444/8325617">this example</a>. The raw data for this visualization comes from the output of a <a href="http://lintool.github.io/warcbase-docs/Spark-Collection-Analytics/">Spark script</a>. You can see the exact script <a href="https://github.com/ianmilligan1/McLuhan/blob/master/Scripts/CPP-Elxn42-URL-Domain-Extractor.scala">here.</a></p>
+
+<p>Original code was created by Jimmy Lin and <a href="https://github.com/lintool/warcbase/tree/master/vis/crawl-sites">can be found here.</a></p>
+
+<p>This particular research is supported by the Marshall McLuhan Cenentary Fellowship. <a href="https://ianmilligan.ca/2016/07/04/marshall-mcluhan-fellowship/">You can find out more about that project here.</a></p>
+
 </html>
