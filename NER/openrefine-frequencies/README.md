@@ -10,3 +10,5 @@ These were NER frequency outputs cleaned up using OpenRefine. Work done by Patri
 - Export to Excel/CSV and keep in this repo.
 
 Not the best workflow, but OpenRefine does not seem to easily combine and sum values.
+
+Files are stored in categories, `loc`, `org`, and `pers`.
