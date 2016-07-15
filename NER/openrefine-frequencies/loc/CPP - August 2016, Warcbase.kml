@@ -1,0 +1,1972 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>CPP - August 2016, Warcbase</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Frequency of Locations</name>
+			<Placemark>
+				<name>Canada</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Canada</address>
+			</Placemark>
+			<Placemark>
+				<name>Ontario</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Ontario</address>
+			</Placemark>
+			<Placemark>
+				<name>United States</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>United States</address>
+			</Placemark>
+			<Placemark>
+				<name>Ottawa</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Ottawa</address>
+			</Placemark>
+			<Placemark>
+				<name>Toronto</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Toronto</address>
+			</Placemark>
+			<Placemark>
+				<name>Alberta</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Alberta</address>
+			</Placemark>
+			<Placemark>
+				<name>British Columbia</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>British Columbia</address>
+			</Placemark>
+			<Placemark>
+				<name>Manitoba</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Manitoba</address>
+			</Placemark>
+			<Placemark>
+				<name>Hawaiian</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Hawaiian</address>
+			</Placemark>
+			<Placemark>
+				<name>Quebec</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Quebec</address>
+			</Placemark>
+			<Placemark>
+				<name>Montreal</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Montreal</address>
+			</Placemark>
+			<Placemark>
+				<name>Vancouver</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Vancouver</address>
+			</Placemark>
+			<Placemark>
+				<name>Alberta British Columbia Manitoba New Brunswick Newfoundland</name>
+			</Placemark>
+			<Placemark>
+				<name>Winnipeg</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Winnipeg</address>
+			</Placemark>
+			<Placemark>
+				<name>Labrador, Nova Scotia, Northwest Territories</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Labrador, Nova Scotia, Northwest Territories</address>
+			</Placemark>
+			<Placemark>
+				<name>New Brunswick</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>New Brunswick</address>
+			</Placemark>
+			<Placemark>
+				<name>Nova Scotia</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Nova Scotia</address>
+			</Placemark>
+			<Placemark>
+				<name>Saskatchewan</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Saskatchewan</address>
+			</Placemark>
+			<Placemark>
+				<name>Russia</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Russia</address>
+			</Placemark>
+			<Placemark>
+				<name>China</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>China</address>
+			</Placemark>
+			<Placemark>
+				<name>Iraq</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Iraq</address>
+			</Placemark>
+			<Placemark>
+				<name>Europe</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Europe</address>
+			</Placemark>
+			<Placemark>
+				<name>Syria</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Syria</address>
+			</Placemark>
+			<Placemark>
+				<name>United Kingdom</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>United Kingdom</address>
+			</Placemark>
+			<Placemark>
+				<name>Edmonton</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Edmonton</address>
+			</Placemark>
+			<Placemark>
+				<name>California</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>California</address>
+			</Placemark>
+			<Placemark>
+				<name>Israel</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Israel</address>
+			</Placemark>
+			<Placemark>
+				<name>North America</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>North America</address>
+			</Placemark>
+			<Placemark>
+				<name>Halifax</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Halifax</address>
+			</Placemark>
+			<Placemark>
+				<name>St Lawrence River</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>St Lawrence River</address>
+			</Placemark>
+			<Placemark>
+				<name>Afghanistan</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Afghanistan</address>
+			</Placemark>
+			<Placemark>
+				<name>Egypt</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Egypt</address>
+			</Placemark>
+			<Placemark>
+				<name>Washington</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Washington</address>
+			</Placemark>
+			<Placemark>
+				<name>Newfoundland</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Newfoundland</address>
+			</Placemark>
+			<Placemark>
+				<name>Finland</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Finland</address>
+			</Placemark>
+			<Placemark>
+				<name>Mexico</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Mexico</address>
+			</Placemark>
+			<Placemark>
+				<name>India</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>India</address>
+			</Placemark>
+			<Placemark>
+				<name>Jamaica</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Jamaica</address>
+			</Placemark>
+			<Placemark>
+				<name>Great Lakes Basin</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Great Lakes Basin</address>
+			</Placemark>
+			<Placemark>
+				<name>Carlton St. Toronto</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Carlton St. Toronto</address>
+			</Placemark>
+			<Placemark>
+				<name>Copenhagen</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Copenhagen</address>
+			</Placemark>
+			<Placemark>
+				<name>London</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>London</address>
+			</Placemark>
+			<Placemark>
+				<name>Iran</name>
+				<styleUrl>#icon-503-484848-nodesc</styleUrl>
+				<address>Iran</address>
+			</Placemark>
+			<Placemark>
+				<name>Rome</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Rome</address>
+			</Placemark>
+			<Placemark>
+				<name>Australia</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Australia</address>
+			</Placemark>
+			<Placemark>
+				<name>Germany</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Germany</address>
+			</Placemark>
+			<Placemark>
+				<name>Atlantic</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Atlantic</address>
+			</Placemark>
+			<Placemark>
+				<name>France</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>France</address>
+			</Placemark>
+			<Placemark>
+				<name>New York</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>New York</address>
+			</Placemark>
+			<Placemark>
+				<name>Nestle</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Nestle</address>
+			</Placemark>
+			<Placemark>
+				<name>Calgary</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Calgary</address>
+			</Placemark>
+			<Placemark>
+				<name>Energy East</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Energy East</address>
+			</Placemark>
+			<Placemark>
+				<name>Britain</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Britain</address>
+			</Placemark>
+			<Placemark>
+				<name>Victoria</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Victoria</address>
+			</Placemark>
+			<Placemark>
+				<name>Greece</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Greece</address>
+			</Placemark>
+			<Placemark>
+				<name>European Union</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>European Union</address>
+			</Placemark>
+			<Placemark>
+				<name>Jordan</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Jordan</address>
+			</Placemark>
+			<Placemark>
+				<name>Geneva</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Geneva</address>
+			</Placemark>
+			<Placemark>
+				<name>Gulf Islands</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Gulf Islands</address>
+			</Placemark>
+			<Placemark>
+				<name>Americas</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Americas</address>
+			</Placemark>
+			<Placemark>
+				<name>West Coast</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>West Coast</address>
+			</Placemark>
+			<Placemark>
+				<name>Saudi Arabia</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Saudi Arabia</address>
+			</Placemark>
+			<Placemark>
+				<name>Bahrain</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Bahrain</address>
+			</Placemark>
+			<Placemark>
+				<name>Africa</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Africa</address>
+			</Placemark>
+			<Placemark>
+				<name>Paris</name>
+				<styleUrl>#icon-503-595959-nodesc</styleUrl>
+				<address>Paris</address>
+			</Placemark>
+			<Placemark>
+				<name>Cuba</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Cuba</address>
+			</Placemark>
+			<Placemark>
+				<name>Japan</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Japan</address>
+			</Placemark>
+			<Placemark>
+				<name>Ukraine</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Ukraine</address>
+			</Placemark>
+			<Placemark>
+				<name>Kyoto</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Kyoto</address>
+			</Placemark>
+			<Placemark>
+				<name>Richmond</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Richmond</address>
+			</Placemark>
+			<Placemark>
+				<name>Pakistan</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Pakistan</address>
+			</Placemark>
+			<Placemark>
+				<name>Colombia</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Colombia</address>
+			</Placemark>
+			<Placemark>
+				<name>Saanich</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Saanich</address>
+			</Placemark>
+			<Placemark>
+				<name>Saskatoon</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Saskatoon</address>
+			</Placemark>
+			<Placemark>
+				<name>Labrador</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Labrador</address>
+			</Placemark>
+			<Placemark>
+				<name>Helsinki</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Helsinki</address>
+			</Placemark>
+			<Placemark>
+				<name>St.Stephen</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>St.Stephen</address>
+			</Placemark>
+			<Placemark>
+				<name>South Africa</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>South Africa</address>
+			</Placemark>
+			<Placemark>
+				<name>Detroit</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Detroit</address>
+			</Placemark>
+			<Placemark>
+				<name>Asia</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Asia</address>
+			</Placemark>
+			<Placemark>
+				<name>Brazil</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Brazil</address>
+			</Placemark>
+			<Placemark>
+				<name>Gaza</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Gaza</address>
+			</Placemark>
+			<Placemark>
+				<name>Libya</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Libya</address>
+			</Placemark>
+			<Placemark>
+				<name>Reddit</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Reddit</address>
+			</Placemark>
+			<Placemark>
+				<name>Pacific Ocean</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Pacific Ocean</address>
+			</Placemark>
+			<Placemark>
+				<name>Fredericton</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Fredericton</address>
+			</Placemark>
+			<Placemark>
+				<name>Venezuela</name>
+				<styleUrl>#icon-503-6A6A6A-nodesc</styleUrl>
+				<address>Venezuela</address>
+			</Placemark>
+			<Placemark>
+				<name>Great Lakes</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Great Lakes</address>
+			</Placemark>
+			<Placemark>
+				<name>Earth</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Earth</address>
+			</Placemark>
+			<Placemark>
+				<name>Scotland</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Scotland</address>
+			</Placemark>
+			<Placemark>
+				<name>Pacific</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Pacific</address>
+			</Placemark>
+			<Placemark>
+				<name>Black Sea</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Black Sea</address>
+			</Placemark>
+			<Placemark>
+				<name>Mississauga</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Mississauga</address>
+			</Placemark>
+			<Placemark>
+				<name>Middle East</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Middle East</address>
+			</Placemark>
+			<Placemark>
+				<name>Moncton</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Moncton</address>
+			</Placemark>
+			<Placemark>
+				<name>Houston</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Houston</address>
+			</Placemark>
+			<Placemark>
+				<name>Burnaby</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Burnaby</address>
+			</Placemark>
+			<Placemark>
+				<name>Gatineau</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Gatineau</address>
+			</Placemark>
+			<Placemark>
+				<name>Latin America</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Latin America</address>
+			</Placemark>
+			<Placemark>
+				<name>Norway</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Norway</address>
+			</Placemark>
+			<Placemark>
+				<name>Guelph</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Guelph</address>
+			</Placemark>
+			<Placemark>
+				<name>West Waterloo ,</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>West Waterloo ,</address>
+			</Placemark>
+			<Placemark>
+				<name>Haiti</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Haiti</address>
+			</Placemark>
+			<Placemark>
+				<name>Sweden</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Sweden</address>
+			</Placemark>
+			<Placemark>
+				<name>Sydney</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Sydney</address>
+			</Placemark>
+			<Placemark>
+				<name>Atlantic Canada</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Atlantic Canada</address>
+			</Placemark>
+			<Placemark>
+				<name>Beijing</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Beijing</address>
+			</Placemark>
+			<Placemark>
+				<name>Michigan</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Michigan</address>
+			</Placemark>
+			<Placemark>
+				<name>Fraser River</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Fraser River</address>
+			</Placemark>
+			<Placemark>
+				<name>Chicago</name>
+				<styleUrl>#icon-503-7B7B7B-nodesc</styleUrl>
+				<address>Chicago</address>
+			</Placemark>
+			<Placemark>
+				<name>Whitehorse</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Whitehorse</address>
+			</Placemark>
+			<Placemark>
+				<name>Bolivian</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Bolivian</address>
+			</Placemark>
+			<Placemark>
+				<name>Chile</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Chile</address>
+			</Placemark>
+			<Placemark>
+				<name>Nanaimo</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Nanaimo</address>
+			</Placemark>
+			<Placemark>
+				<name>Yemen</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Yemen</address>
+			</Placemark>
+			<Placemark>
+				<name>Berlin</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Berlin</address>
+			</Placemark>
+			<Placemark>
+				<name>Texas</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Texas</address>
+			</Placemark>
+			<Placemark>
+				<name>Vancouver Island</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Vancouver Island</address>
+			</Placemark>
+			<Placemark>
+				<name>Palestine</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Palestine</address>
+			</Placemark>
+			<Placemark>
+				<name>Seattle</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Seattle</address>
+			</Placemark>
+			<Placemark>
+				<name>Italy</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Italy</address>
+			</Placemark>
+			<Placemark>
+				<name>New Zealand</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>New Zealand</address>
+			</Placemark>
+			<Placemark>
+				<name>Charlottetown</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Charlottetown</address>
+			</Placemark>
+			<Placemark>
+				<name>Sudbury</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Sudbury</address>
+			</Placemark>
+			<Placemark>
+				<name>Canadian</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Canadian</address>
+			</Placemark>
+			<Placemark>
+				<name>El Salvador</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>El Salvador</address>
+			</Placemark>
+			<Placemark>
+				<name>Indonesia</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Indonesia</address>
+			</Placemark>
+			<Placemark>
+				<name>Vietnam</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Vietnam</address>
+			</Placemark>
+			<Placemark>
+				<name>Lima</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Lima</address>
+			</Placemark>
+			<Placemark>
+				<name>Phillippines</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Phillippines</address>
+			</Placemark>
+			<Placemark>
+				<name>Peru</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Peru</address>
+			</Placemark>
+			<Placemark>
+				<name>Brussels</name>
+				<styleUrl>#icon-503-8C8C8C-nodesc</styleUrl>
+				<address>Brussels</address>
+			</Placemark>
+			<Placemark>
+				<name>Parliament Hill</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Parliament Hill</address>
+			</Placemark>
+			<Placemark>
+				<name>Nunavut</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Nunavut</address>
+			</Placemark>
+			<Placemark>
+				<name>Ireland</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Ireland</address>
+			</Placemark>
+			<Placemark>
+				<name>Turkey</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Turkey</address>
+			</Placemark>
+			<Placemark>
+				<name>Hamilton</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Hamilton</address>
+			</Placemark>
+			<Placemark>
+				<name>Spain</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Spain</address>
+			</Placemark>
+			<Placemark>
+				<name>Kelowna</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Kelowna</address>
+			</Placemark>
+			<Placemark>
+				<name>New York City</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>New York City</address>
+			</Placemark>
+			<Placemark>
+				<name>Hong Kong</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Hong Kong</address>
+			</Placemark>
+			<Placemark>
+				<name>Cochabamba</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Cochabamba</address>
+			</Placemark>
+			<Placemark>
+				<name>Kingston</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Kingston</address>
+			</Placemark>
+			<Placemark>
+				<name>Palestinians</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Palestinians</address>
+			</Placemark>
+			<Placemark>
+				<name>Nigeria</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Nigeria</address>
+			</Placemark>
+			<Placemark>
+				<name>Kamloops</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Kamloops</address>
+			</Placemark>
+			<Placemark>
+				<name>Arctic</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Arctic</address>
+			</Placemark>
+			<Placemark>
+				<name>Durban</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Durban</address>
+			</Placemark>
+			<Placemark>
+				<name>Northwest Territories</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Northwest Territories</address>
+			</Placemark>
+			<Placemark>
+				<name>Quebec City</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Quebec City</address>
+			</Placemark>
+			<Placemark>
+				<name>Egale Canada</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Egale Canada</address>
+			</Placemark>
+			<Placemark>
+				<name>Guatemala</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Guatemala</address>
+			</Placemark>
+			<Placemark>
+				<name>Honduras</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Honduras</address>
+			</Placemark>
+			<Placemark>
+				<name>Mother Earth</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Mother Earth</address>
+			</Placemark>
+			<Placemark>
+				<name>Peterborough</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Peterborough</address>
+			</Placemark>
+			<Placemark>
+				<name>Tunisia</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Tunisia</address>
+			</Placemark>
+			<Placemark>
+				<name>Windsor</name>
+				<styleUrl>#icon-503-9D9D9D-nodesc</styleUrl>
+				<address>Windsor</address>
+			</Placemark>
+			<Placemark>
+				<name>Soviet Union</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Soviet Union</address>
+			</Placemark>
+			<Placemark>
+				<name>Brampton</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Brampton</address>
+			</Placemark>
+			<Placemark>
+				<name>Wisconsin</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Wisconsin</address>
+			</Placemark>
+			<Placemark>
+				<name>Waterloo</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Waterloo</address>
+			</Placemark>
+			<Placemark>
+				<name>Somalia</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Somalia</address>
+			</Placemark>
+			<Placemark>
+				<name>Korea</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Korea</address>
+			</Placemark>
+			<Placemark>
+				<name>Canada Log</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Canada Log</address>
+			</Placemark>
+			<Placemark>
+				<name>Sudan</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Sudan</address>
+			</Placemark>
+			<Placemark>
+				<name>Wellington</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Wellington</address>
+			</Placemark>
+			<Placemark>
+				<name>Sri Lanka</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Sri Lanka</address>
+			</Placemark>
+			<Placemark>
+				<name>Megantic</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Megantic</address>
+			</Placemark>
+			<Placemark>
+				<name>Argentina</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Argentina</address>
+			</Placemark>
+			<Placemark>
+				<name>Cancun</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Cancun</address>
+			</Placemark>
+			<Placemark>
+				<name>Sarnia</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Sarnia</address>
+			</Placemark>
+			<Placemark>
+				<name>Canadian Centre</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Canadian Centre</address>
+			</Placemark>
+			<Placemark>
+				<name>West</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>West</address>
+			</Placemark>
+			<Placemark>
+				<name>Saudi</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Saudi</address>
+			</Placemark>
+			<Placemark>
+				<name>Saanich Inlet</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Saanich Inlet</address>
+			</Placemark>
+			<Placemark>
+				<name>Mayne Island</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Mayne Island</address>
+			</Placemark>
+			<Placemark>
+				<name>South Korea</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>South Korea</address>
+			</Placemark>
+			<Placemark>
+				<name>Fort Mcmurray</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Fort Mcmurray</address>
+			</Placemark>
+			<Placemark>
+				<name>Congo</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Congo</address>
+			</Placemark>
+			<Placemark>
+				<name>Cape Breton</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Cape Breton</address>
+			</Placemark>
+			<Placemark>
+				<name>Netherlands</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Netherlands</address>
+			</Placemark>
+			<Placemark>
+				<name>Yellowknife</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Yellowknife</address>
+			</Placemark>
+			<Placemark>
+				<name>Greenbelt</name>
+				<styleUrl>#icon-503-AEAEAE-nodesc</styleUrl>
+				<address>Greenbelt</address>
+			</Placemark>
+			<Placemark>
+				<name>Inner City</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Inner City</address>
+			</Placemark>
+			<Placemark>
+				<name>Bangladesh</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Bangladesh</address>
+			</Placemark>
+			<Placemark>
+				<name>North Korea</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>North Korea</address>
+			</Placemark>
+			<Placemark>
+				<name>Mount Polley</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Mount Polley</address>
+			</Placemark>
+			<Placemark>
+				<name>Denamrk</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Denamrk</address>
+			</Placemark>
+			<Placemark>
+				<name>Western Canada</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Western Canada</address>
+			</Placemark>
+			<Placemark>
+				<name>Caribbean</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Caribbean</address>
+			</Placemark>
+			<Placemark>
+				<name>Georgia</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Georgia</address>
+			</Placemark>
+			<Placemark>
+				<name>Oshawa</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Oshawa</address>
+			</Placemark>
+			<Placemark>
+				<name>Rwanda</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Rwanda</address>
+			</Placemark>
+			<Placemark>
+				<name>European</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>European</address>
+			</Placemark>
+			<Placemark>
+				<name>Peace River</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Peace River</address>
+			</Placemark>
+			<Placemark>
+				<name>Boston</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Boston</address>
+			</Placemark>
+			<Placemark>
+				<name>Mediterranean</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Mediterranean</address>
+			</Placemark>
+			<Placemark>
+				<name>Ghana</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Ghana</address>
+			</Placemark>
+			<Placemark>
+				<name>Moscow</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Moscow</address>
+			</Placemark>
+			<Placemark>
+				<name>Athabasca</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Athabasca</address>
+			</Placemark>
+			<Placemark>
+				<name>Los Angeles</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Los Angeles</address>
+			</Placemark>
+			<Placemark>
+				<name>Mexico City</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Mexico City</address>
+			</Placemark>
+			<Placemark>
+				<name>Kenya</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Kenya</address>
+			</Placemark>
+			<Placemark>
+				<name>Uganda</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Uganda</address>
+			</Placemark>
+			<Placemark>
+				<name>Jersey</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Jersey</address>
+			</Placemark>
+			<Placemark>
+				<name>Syrian</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Syrian</address>
+			</Placemark>
+			<Placemark>
+				<name>Canley Heights</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Canley Heights</address>
+			</Placemark>
+			<Placemark>
+				<name>Alaska</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Alaska</address>
+			</Placemark>
+			<Placemark>
+				<name>Uruguay</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Uruguay</address>
+			</Placemark>
+			<Placemark>
+				<name>Ryan Mcdonagh Authentic Jersey</name>
+			</Placemark>
+			<Placemark>
+				<name>Asia Rick Nash Jersey</name>
+			</Placemark>
+			<Placemark>
+				<name>Valtteri Filppula Jersey</name>
+			</Placemark>
+			<Placemark>
+				<name>Athens</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Athens</address>
+			</Placemark>
+			<Placemark>
+				<name>Egale</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>Egale</address>
+			</Placemark>
+			<Placemark>
+				<name>French</name>
+				<styleUrl>#icon-503-BFBFBF-nodesc</styleUrl>
+				<address>French</address>
+			</Placemark>
+			<Placemark>
+				<name>Gulf Of St Lawrence</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Gulf Of St Lawrence</address>
+			</Placemark>
+			<Placemark>
+				<name>Ecuador</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Ecuador</address>
+			</Placemark>
+			<Placemark>
+				<name>Mali</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Mali</address>
+			</Placemark>
+			<Placemark>
+				<name>Mardi</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Mardi</address>
+			</Placemark>
+			<Placemark>
+				<name>Cuban</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Cuban</address>
+			</Placemark>
+			<Placemark>
+				<name>Kosovo</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Kosovo</address>
+			</Placemark>
+			<Placemark>
+				<name>North Vancouver</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>North Vancouver</address>
+			</Placemark>
+			<Placemark>
+				<name>Cairo</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Cairo</address>
+			</Placemark>
+			<Placemark>
+				<name>Iraqi</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Iraqi</address>
+			</Placemark>
+			<Placemark>
+				<name>Lake Huron</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Lake Huron</address>
+			</Placemark>
+			<Placemark>
+				<name>Gulf Of Mexico</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Gulf Of Mexico</address>
+			</Placemark>
+			<Placemark>
+				<name>Austria</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Austria</address>
+			</Placemark>
+			<Placemark>
+				<name>Lethbridge</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Lethbridge</address>
+			</Placemark>
+			<Placemark>
+				<name>Nicaragua</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Nicaragua</address>
+			</Placemark>
+			<Placemark>
+				<name>Burnaby Mountain</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Burnaby Mountain</address>
+			</Placemark>
+			<Placemark>
+				<name>Hungary</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Hungary</address>
+			</Placemark>
+			<Placemark>
+				<name>Switzerland</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Switzerland</address>
+			</Placemark>
+			<Placemark>
+				<name>Doha</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Doha</address>
+			</Placemark>
+			<Placemark>
+				<name>Burma</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Burma</address>
+			</Placemark>
+			<Placemark>
+				<name>San Francisco</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>San Francisco</address>
+			</Placemark>
+			<Placemark>
+				<name>Longueuil</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Longueuil</address>
+			</Placemark>
+			<Placemark>
+				<name>Nepal</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Nepal</address>
+			</Placemark>
+			<Placemark>
+				<name>Maine</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Maine</address>
+			</Placemark>
+			<Placemark>
+				<name>Syriza</name>
+			</Placemark>
+			<Placemark>
+				<name>South</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>South</address>
+			</Placemark>
+			<Placemark>
+				<name>Campbell River</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Campbell River</address>
+			</Placemark>
+			<Placemark>
+				<name>Kitchener</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Kitchener</address>
+			</Placemark>
+			<Placemark>
+				<name>North Bay</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>North Bay</address>
+			</Placemark>
+			<Placemark>
+				<name>Florida</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Florida</address>
+			</Placemark>
+			<Placemark>
+				<name>Lebanon</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Lebanon</address>
+			</Placemark>
+			<Placemark>
+				<name>Pacific Rim</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Pacific Rim</address>
+			</Placemark>
+			<Placemark>
+				<name>Warsaw</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Warsaw</address>
+			</Placemark>
+			<Placemark>
+				<name>Lake Ontario</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Lake Ontario</address>
+			</Placemark>
+			<Placemark>
+				<name>Supra ,</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>Supra ,</address>
+			</Placemark>
+			<Placemark>
+				<name>P.C.</name>
+				<styleUrl>#icon-503-D0D0D0-nodesc</styleUrl>
+				<address>P.C.</address>
+			</Placemark>
+			<Placemark>
+				<name>Romania</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Romania</address>
+			</Placemark>
+			<Placemark>
+				<name>Middle Brook</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Middle Brook</address>
+			</Placemark>
+			<Placemark>
+				<name>Turtle Island</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Turtle Island</address>
+			</Placemark>
+			<Placemark>
+				<name>Paraguay</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Paraguay</address>
+			</Placemark>
+			<Placemark>
+				<name>Egyptian</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Egyptian</address>
+			</Placemark>
+			<Placemark>
+				<name>Costa Rica</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Costa Rica</address>
+			</Placemark>
+			<Placemark>
+				<name>Lake Winnipeg</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Lake Winnipeg</address>
+			</Placemark>
+			<Placemark>
+				<name>Regina</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Regina</address>
+			</Placemark>
+			<Placemark>
+				<name>Thailand</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Thailand</address>
+			</Placemark>
+			<Placemark>
+				<name>Tar Sands</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Tar Sands</address>
+			</Placemark>
+			<Placemark>
+				<name>Cornwall</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Cornwall</address>
+			</Placemark>
+			<Placemark>
+				<name>Elora , Ontario ,</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Elora , Ontario ,</address>
+			</Placemark>
+			<Placemark>
+				<name>Etobicoke</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Etobicoke</address>
+			</Placemark>
+			<Placemark>
+				<name>Pennsylvania</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Pennsylvania</address>
+			</Placemark>
+			<Placemark>
+				<name>Kenora</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Kenora</address>
+			</Placemark>
+			<Placemark>
+				<name>St.Lawrence</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>St.Lawrence</address>
+			</Placemark>
+			<Placemark>
+				<name>South America</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>South America</address>
+			</Placemark>
+			<Placemark>
+				<name>Poland</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Poland</address>
+			</Placemark>
+			<Placemark>
+				<name>Comox Valley</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Comox Valley</address>
+			</Placemark>
+			<Placemark>
+				<name>Cyprus</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Cyprus</address>
+			</Placemark>
+			<Placemark>
+				<name>Gulf</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Gulf</address>
+			</Placemark>
+			<Placemark>
+				<name>Malaysia</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Malaysia</address>
+			</Placemark>
+			<Placemark>
+				<name>Thunder Bay</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Thunder Bay</address>
+			</Placemark>
+			<Placemark>
+				<name>Attawapiskat</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Attawapiskat</address>
+			</Placemark>
+			<Placemark>
+				<name>Kronstadt</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Kronstadt</address>
+			</Placemark>
+			<Placemark>
+				<name>Kiev</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Kiev</address>
+			</Placemark>
+			<Placemark>
+				<name>British</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>British</address>
+			</Placemark>
+			<Placemark>
+				<name>Bayfield</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Bayfield</address>
+			</Placemark>
+			<Placemark>
+				<name>Prince Edward Island</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Prince Edward Island</address>
+			</Placemark>
+			<Placemark>
+				<name>Cacouna</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Cacouna</address>
+			</Placemark>
+			<Placemark>
+				<name>Abbotsford</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Abbotsford</address>
+			</Placemark>
+			<Placemark>
+				<name>Zimbabwe</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Zimbabwe</address>
+			</Placemark>
+			<Placemark>
+				<name>Rio Tinto</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Rio Tinto</address>
+			</Placemark>
+			<Placemark>
+				<name>Hollywood</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Hollywood</address>
+			</Placemark>
+			<Placemark>
+				<name>North Dakota</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>North Dakota</address>
+			</Placemark>
+			<Placemark>
+				<name>Asian</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Asian</address>
+			</Placemark>
+			<Placemark>
+				<name>Elora Quarry</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Elora Quarry</address>
+			</Placemark>
+			<Placemark>
+				<name>Donnottar ,</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Donnottar ,</address>
+			</Placemark>
+			<Placemark>
+				<name>Portage</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Portage</address>
+			</Placemark>
+			<Placemark>
+				<name>Colorado</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Colorado</address>
+			</Placemark>
+			<Placemark>
+				<name>Belgium</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Belgium</address>
+			</Placemark>
+			<Placemark>
+				<name>Vermont</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Vermont</address>
+			</Placemark>
+			<Placemark>
+				<name>Rio De Janeiro</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Rio De Janeiro</address>
+			</Placemark>
+			<Placemark>
+				<name>Haida Gwaii</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Haida Gwaii</address>
+			</Placemark>
+			<Placemark>
+				<name>Rio</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Rio</address>
+			</Placemark>
+			<Placemark>
+				<name>Qatar</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Qatar</address>
+			</Placemark>
+			<Placemark>
+				<name>Sochi</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Sochi</address>
+			</Placemark>
+			<Placemark>
+				<name>Dublin</name>
+				<styleUrl>#icon-503-E1E1E1-nodesc</styleUrl>
+				<address>Dublin</address>
+			</Placemark>
+			<Placemark>
+				<name>Guantanamo</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Guantanamo</address>
+			</Placemark>
+			<Placemark>
+				<name>London, Ontario</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>London, Ontario</address>
+			</Placemark>
+			<Placemark>
+				<name>Mount Polley Chiropractic</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Mount Polley Chiropractic</address>
+			</Placemark>
+			<Placemark>
+				<name>Thousand Islands</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Thousand Islands</address>
+			</Placemark>
+			<Placemark>
+				<name>Amazon</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Amazon</address>
+			</Placemark>
+			<Placemark>
+				<name>New Jersey</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>New Jersey</address>
+			</Placemark>
+			<Placemark>
+				<name>Bangkok</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Bangkok</address>
+			</Placemark>
+			<Placemark>
+				<name>Turkmenistan</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Turkmenistan</address>
+			</Placemark>
+			<Placemark>
+				<name>Sault</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Sault</address>
+			</Placemark>
+			<Placemark>
+				<name>Chinese</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Chinese</address>
+			</Placemark>
+			<Placemark>
+				<name>Burlington</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Burlington</address>
+			</Placemark>
+			<Placemark>
+				<name>Northumberland</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Northumberland</address>
+			</Placemark>
+			<Placemark>
+				<name>Portugal</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Portugal</address>
+			</Placemark>
+			<Placemark>
+				<name>Asia, Central Asia</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Asia, Central Asia</address>
+			</Placemark>
+			<Placemark>
+				<name>Hiroshima</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Hiroshima</address>
+			</Placemark>
+			<Placemark>
+				<name>Diwali</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Diwali</address>
+			</Placemark>
+			<Placemark>
+				<name>Brockville</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Brockville</address>
+			</Placemark>
+			<Placemark>
+				<name>Wales</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Wales</address>
+			</Placemark>
+			<Placemark>
+				<name>Loreto</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Loreto</address>
+			</Placemark>
+			<Placemark>
+				<name>Korean</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Korean</address>
+			</Placemark>
+			<Placemark>
+				<name>Shawnigan Lake</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Shawnigan Lake</address>
+			</Placemark>
+			<Placemark>
+				<name>Hawaii</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Hawaii</address>
+			</Placemark>
+			<Placemark>
+				<name>Atlantic Coast</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Atlantic Coast</address>
+			</Placemark>
+			<Placemark>
+				<name>Syrie</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Syrie</address>
+			</Placemark>
+			<Placemark>
+				<name>Bali</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Bali</address>
+			</Placemark>
+			<Placemark>
+				<name>Kalamazoo River</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Kalamazoo River</address>
+			</Placemark>
+			<Placemark>
+				<name>Nebraska</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Nebraska</address>
+			</Placemark>
+			<Placemark>
+				<name>Ramsey Lake</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Ramsey Lake</address>
+			</Placemark>
+			<Placemark>
+				<name>Cambridge</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Cambridge</address>
+			</Placemark>
+			<Placemark>
+				<name>Colchester County</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Colchester County</address>
+			</Placemark>
+			<Placemark>
+				<name>Bay Street</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Bay Street</address>
+			</Placemark>
+			<Placemark>
+				<name>Inverness County</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Inverness County</address>
+			</Placemark>
+			<Placemark>
+				<name>Pacific Coast</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Pacific Coast</address>
+			</Placemark>
+			<Placemark>
+				<name>Melbourne</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Melbourne</address>
+			</Placemark>
+			<Placemark>
+				<name>Kandahar</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Kandahar</address>
+			</Placemark>
+			<Placemark>
+				<name>New Westminster</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>New Westminster</address>
+			</Placemark>
+			<Placemark>
+				<name>Morocco</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Morocco</address>
+			</Placemark>
+			<Placemark>
+				<name>Richtree</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Richtree</address>
+			</Placemark>
+			<Placemark>
+				<name>Belleville</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Belleville</address>
+			</Placemark>
+			<Placemark>
+				<name>Columbia</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Columbia</address>
+			</Placemark>
+			<Placemark>
+				<name>New England</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>New England</address>
+			</Placemark>
+			<Placemark>
+				<name>Canada Menu Skip</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Canada Menu Skip</address>
+			</Placemark>
+			<Placemark>
+				<name>Perth</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Perth</address>
+			</Placemark>
+			<Placemark>
+				<name>Canada Health</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Canada Health</address>
+			</Placemark>
+			<Placemark>
+				<name>Toronto Log</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Toronto Log</address>
+			</Placemark>
+			<Placemark>
+				<name>Oakville</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Oakville</address>
+			</Placemark>
+			<Placemark>
+				<name>Cambodia</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Cambodia</address>
+			</Placemark>
+			<Placemark>
+				<name>Beauce</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Beauce</address>
+			</Placemark>
+			<Placemark>
+				<name>Yugoslavia</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Yugoslavia</address>
+			</Placemark>
+			<Placemark>
+				<name>Little Saskatchewan River</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Little Saskatchewan River</address>
+			</Placemark>
+			<Placemark>
+				<name>Riverview</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Riverview</address>
+			</Placemark>
+			<Placemark>
+				<name>Selma</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Selma</address>
+			</Placemark>
+			<Placemark>
+				<name>Bhutan</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Bhutan</address>
+			</Placemark>
+			<Placemark>
+				<name>Surrey</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Surrey</address>
+			</Placemark>
+			<Placemark>
+				<name>Prairies</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Prairies</address>
+			</Placemark>
+			<Placemark>
+				<name>Lgbtq ,</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Lgbtq ,</address>
+			</Placemark>
+			<Placemark>
+				<name>Vaisakhi</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Vaisakhi</address>
+			</Placemark>
+			<Placemark>
+				<name>Taiwan</name>
+				<styleUrl>#icon-503-F2F2F2-nodesc</styleUrl>
+				<address>Taiwan</address>
+			</Placemark>
+			<Placemark>
+				<name>(blank)</name>
+				<styleUrl>#icon-503-FFFFFF-nodesc</styleUrl>
+				<address>(blank)</address>
+			</Placemark>
+			<Placemark>
+				<name>Grand Total</name>
+				<styleUrl>#icon-503-373737-nodesc</styleUrl>
+				<address>Grand Total</address>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-373737-nodesc'>
+			<IconStyle>
+				<color>ff373737</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-484848-nodesc'>
+			<IconStyle>
+				<color>ff484848</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-595959-nodesc'>
+			<IconStyle>
+				<color>ff595959</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-6A6A6A-nodesc'>
+			<IconStyle>
+				<color>ff6A6A6A</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-7B7B7B-nodesc'>
+			<IconStyle>
+				<color>ff7B7B7B</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-8C8C8C-nodesc'>
+			<IconStyle>
+				<color>ff8C8C8C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-9D9D9D-nodesc'>
+			<IconStyle>
+				<color>ff9D9D9D</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-AEAEAE-nodesc'>
+			<IconStyle>
+				<color>ffAEAEAE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-BFBFBF-nodesc'>
+			<IconStyle>
+				<color>ffBFBFBF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-D0D0D0-nodesc'>
+			<IconStyle>
+				<color>ffD0D0D0</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-E1E1E1-nodesc'>
+			<IconStyle>
+				<color>ffE1E1E1</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-F2F2F2-nodesc'>
+			<IconStyle>
+				<color>ffF2F2F2</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-FFFFFF-nodesc'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+	</Document>
+</kml>
