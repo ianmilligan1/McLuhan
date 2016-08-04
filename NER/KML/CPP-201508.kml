@@ -1,0 +1,7033 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>CPP-201508</name>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Canada<br>
+<b>Sum of Frequency:</b> 283162
+</div>]]></description>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>283162</value>
+				</Data>
+			</ExtendedData>
+			<address>Canada</address>
+		</Placemark>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Ontario<br>
+<b>Sum of Frequency:</b> 34197
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>34197</value>
+				</Data>
+			</ExtendedData>
+			<address>Ontario</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> United States<br>
+<b>Sum of Frequency:</b> 32008
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>32008</value>
+				</Data>
+			</ExtendedData>
+			<address>United States</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Ottawa<br>
+<b>Sum of Frequency:</b> 30233
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>30233</value>
+				</Data>
+			</ExtendedData>
+			<address>Ottawa</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Toronto<br>
+<b>Sum of Frequency:</b> 18787
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>18787</value>
+				</Data>
+			</ExtendedData>
+			<address>Toronto</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Alberta<br>
+<b>Sum of Frequency:</b> 17015
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>17015</value>
+				</Data>
+			</ExtendedData>
+			<address>Alberta</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> British Columbia<br>
+<b>Sum of Frequency:</b> 13181
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>13181</value>
+				</Data>
+			</ExtendedData>
+			<address>British Columbia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Manitoba<br>
+<b>Sum of Frequency:</b> 11332
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>11332</value>
+				</Data>
+			</ExtendedData>
+			<address>Manitoba</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Hawaiian<br>
+<b>Sum of Frequency:</b> 10110
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>10110</value>
+				</Data>
+			</ExtendedData>
+			<address>Hawaiian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> QUEBEC<br>
+<b>Sum of Frequency:</b> 9633
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>9633</value>
+				</Data>
+			</ExtendedData>
+			<address>QUEBEC</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Vancouver<br>
+<b>Sum of Frequency:</b> 9442
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>9442</value>
+				</Data>
+			</ExtendedData>
+			<address>Vancouver</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Montreal<br>
+<b>Sum of Frequency:</b> 9382
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>9382</value>
+				</Data>
+			</ExtendedData>
+			<address>Montreal</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Winnipeg<br>
+<b>Sum of Frequency:</b> 7454
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>7454</value>
+				</Data>
+			</ExtendedData>
+			<address>Winnipeg</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Alberta British Columbia Manitoba New Brunswick Newfoundland<br>
+<b>Sum of Frequency:</b> 7197
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>7197</value>
+				</Data>
+			</ExtendedData>
+			<address>Alberta British Columbia Manitoba New Brunswick Newfoundland</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LABRADOR, NOVA SCOTIA, NORTHWEST TERRITORIES<br>
+<b>Sum of Frequency:</b> 7126
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>7126</value>
+				</Data>
+			</ExtendedData>
+			<address>LABRADOR, NOVA SCOTIA, NORTHWEST TERRITORIES</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> New Brunswick<br>
+<b>Sum of Frequency:</b> 6927
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>6927</value>
+				</Data>
+			</ExtendedData>
+			<address>New Brunswick</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NOVA SCOTIA<br>
+<b>Sum of Frequency:</b> 6630
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>6630</value>
+				</Data>
+			</ExtendedData>
+			<address>NOVA SCOTIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Saskatchewan<br>
+<b>Sum of Frequency:</b> 6559
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>6559</value>
+				</Data>
+			</ExtendedData>
+			<address>Saskatchewan</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Russia<br>
+<b>Sum of Frequency:</b> 5804
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>5804</value>
+				</Data>
+			</ExtendedData>
+			<address>Russia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> China<br>
+<b>Sum of Frequency:</b> 4891
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>4891</value>
+				</Data>
+			</ExtendedData>
+			<address>China</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> IRAQ<br>
+<b>Sum of Frequency:</b> 4685
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>4685</value>
+				</Data>
+			</ExtendedData>
+			<address>IRAQ</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Europe<br>
+<b>Sum of Frequency:</b> 3886
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>3886</value>
+				</Data>
+			</ExtendedData>
+			<address>Europe</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SYRIA<br>
+<b>Sum of Frequency:</b> 3528
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>3528</value>
+				</Data>
+			</ExtendedData>
+			<address>SYRIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> UNITED KINGDOM<br>
+<b>Sum of Frequency:</b> 3466
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>3466</value>
+				</Data>
+			</ExtendedData>
+			<address>UNITED KINGDOM</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> California<br>
+<b>Sum of Frequency:</b> 3200
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>3200</value>
+				</Data>
+			</ExtendedData>
+			<address>California</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Halifax<br>
+<b>Sum of Frequency:</b> 2818
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2818</value>
+				</Data>
+			</ExtendedData>
+			<address>Halifax</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ST LAWRENCE RIVER<br>
+<b>Sum of Frequency:</b> 2576
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2576</value>
+				</Data>
+			</ExtendedData>
+			<address>ST LAWRENCE RIVER</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Washington<br>
+<b>Sum of Frequency:</b> 2553
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2553</value>
+				</Data>
+			</ExtendedData>
+			<address>Washington</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ISRAEL<br>
+<b>Sum of Frequency:</b> 2516
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2516</value>
+				</Data>
+			</ExtendedData>
+			<address>ISRAEL</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> AFGHANISTAN<br>
+<b>Sum of Frequency:</b> 2412
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2412</value>
+				</Data>
+			</ExtendedData>
+			<address>AFGHANISTAN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Egypt<br>
+<b>Sum of Frequency:</b> 2378
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2378</value>
+				</Data>
+			</ExtendedData>
+			<address>Egypt</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NEWFOUNDLAND<br>
+<b>Sum of Frequency:</b> 2333
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2333</value>
+				</Data>
+			</ExtendedData>
+			<address>NEWFOUNDLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTH AMERICA<br>
+<b>Sum of Frequency:</b> 2311
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2311</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTH AMERICA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> FINLAND<br>
+<b>Sum of Frequency:</b> 2262
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2262</value>
+				</Data>
+			</ExtendedData>
+			<address>FINLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MEXICO<br>
+<b>Sum of Frequency:</b> 2127
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2127</value>
+				</Data>
+			</ExtendedData>
+			<address>MEXICO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> INDIA<br>
+<b>Sum of Frequency:</b> 2124
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2124</value>
+				</Data>
+			</ExtendedData>
+			<address>INDIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Jamaica<br>
+<b>Sum of Frequency:</b> 2080
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2080</value>
+				</Data>
+			</ExtendedData>
+			<address>Jamaica</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Copenhagen<br>
+<b>Sum of Frequency:</b> 2030
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2030</value>
+				</Data>
+			</ExtendedData>
+			<address>Copenhagen</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GREAT LAKES BASIN<br>
+<b>Sum of Frequency:</b> 2028
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2028</value>
+				</Data>
+			</ExtendedData>
+			<address>GREAT LAKES BASIN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Carlton St. Toronto<br>
+<b>Sum of Frequency:</b> 2016
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>2016</value>
+				</Data>
+			</ExtendedData>
+			<address>Carlton St. Toronto</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LONDON<br>
+<b>Sum of Frequency:</b> 1999
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1999</value>
+				</Data>
+			</ExtendedData>
+			<address>LONDON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Iran<br>
+<b>Sum of Frequency:</b> 1903
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1903</value>
+				</Data>
+			</ExtendedData>
+			<address>Iran</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ROME<br>
+<b>Sum of Frequency:</b> 1848
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1848</value>
+				</Data>
+			</ExtendedData>
+			<address>ROME</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> AUSTRALIA<br>
+<b>Sum of Frequency:</b> 1780
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1780</value>
+				</Data>
+			</ExtendedData>
+			<address>AUSTRALIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GERMANY<br>
+<b>Sum of Frequency:</b> 1748
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1748</value>
+				</Data>
+			</ExtendedData>
+			<address>GERMANY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Edmonton How<br>
+<b>Sum of Frequency:</b> 1737
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1737</value>
+				</Data>
+			</ExtendedData>
+			<address>Edmonton How</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> France<br>
+<b>Sum of Frequency:</b> 1726
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1726</value>
+				</Data>
+			</ExtendedData>
+			<address>France</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> New York<br>
+<b>Sum of Frequency:</b> 1723
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1723</value>
+				</Data>
+			</ExtendedData>
+			<address>New York</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Calgary<br>
+<b>Sum of Frequency:</b> 1676
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1676</value>
+				</Data>
+			</ExtendedData>
+			<address>Calgary</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Nestle<br>
+<b>Sum of Frequency:</b> 1644
+</div>]]></description>
+			<styleUrl>#Style2-point-1</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1644</value>
+				</Data>
+			</ExtendedData>
+			<address>Nestle</address>
+		</Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Edmonton<br>
+<b>Sum of Frequency:</b> 1625
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1625</value>
+				</Data>
+			</ExtendedData>
+			<address>Edmonton</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ATLANTIC<br>
+<b>Sum of Frequency:</b> 1602
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1602</value>
+				</Data>
+			</ExtendedData>
+			<address>ATLANTIC</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Britain<br>
+<b>Sum of Frequency:</b> 1576
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1576</value>
+				</Data>
+			</ExtendedData>
+			<address>Britain</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Energy East<br>
+<b>Sum of Frequency:</b> 1566
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1566</value>
+				</Data>
+			</ExtendedData>
+			<address>Energy East</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Victoria<br>
+<b>Sum of Frequency:</b> 1559
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1559</value>
+				</Data>
+			</ExtendedData>
+			<address>Victoria</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Geneva<br>
+<b>Sum of Frequency:</b> 1524
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1524</value>
+				</Data>
+			</ExtendedData>
+			<address>Geneva</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> JORDAN<br>
+<b>Sum of Frequency:</b> 1491
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1491</value>
+				</Data>
+			</ExtendedData>
+			<address>JORDAN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GREECE<br>
+<b>Sum of Frequency:</b> 1488
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1488</value>
+				</Data>
+			</ExtendedData>
+			<address>GREECE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> EUROPEAN UNION<br>
+<b>Sum of Frequency:</b> 1475
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1475</value>
+				</Data>
+			</ExtendedData>
+			<address>EUROPEAN UNION</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Gulf Islands<br>
+<b>Sum of Frequency:</b> 1425
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1425</value>
+				</Data>
+			</ExtendedData>
+			<address>Gulf Islands</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WEST COAST<br>
+<b>Sum of Frequency:</b> 1359
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1359</value>
+				</Data>
+			</ExtendedData>
+			<address>WEST COAST</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SAUDI ARABIA<br>
+<b>Sum of Frequency:</b> 1305
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1305</value>
+				</Data>
+			</ExtendedData>
+			<address>SAUDI ARABIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PARIS<br>
+<b>Sum of Frequency:</b> 1294
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1294</value>
+				</Data>
+			</ExtendedData>
+			<address>PARIS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Africa<br>
+<b>Sum of Frequency:</b> 1280
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1280</value>
+				</Data>
+			</ExtendedData>
+			<address>Africa</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CUBA<br>
+<b>Sum of Frequency:</b> 1257
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1257</value>
+				</Data>
+			</ExtendedData>
+			<address>CUBA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> JAPAN<br>
+<b>Sum of Frequency:</b> 1253
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1253</value>
+				</Data>
+			</ExtendedData>
+			<address>JAPAN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> UKRAINE<br>
+<b>Sum of Frequency:</b> 1245
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1245</value>
+				</Data>
+			</ExtendedData>
+			<address>UKRAINE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Pakistan<br>
+<b>Sum of Frequency:</b> 1241
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1241</value>
+				</Data>
+			</ExtendedData>
+			<address>Pakistan</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> RICHMOND<br>
+<b>Sum of Frequency:</b> 1215
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1215</value>
+				</Data>
+			</ExtendedData>
+			<address>RICHMOND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> KYOTO<br>
+<b>Sum of Frequency:</b> 1212
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1212</value>
+				</Data>
+			</ExtendedData>
+			<address>KYOTO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SASKATOON<br>
+<b>Sum of Frequency:</b> 1182
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1182</value>
+				</Data>
+			</ExtendedData>
+			<address>SASKATOON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Detroit<br>
+<b>Sum of Frequency:</b> 1177
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1177</value>
+				</Data>
+			</ExtendedData>
+			<address>Detroit</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bahrain<br>
+<b>Sum of Frequency:</b> 1140
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1140</value>
+				</Data>
+			</ExtendedData>
+			<address>Bahrain</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Saanich<br>
+<b>Sum of Frequency:</b> 1134
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1134</value>
+				</Data>
+			</ExtendedData>
+			<address>Saanich</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Labrador<br>
+<b>Sum of Frequency:</b> 1101
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1101</value>
+				</Data>
+			</ExtendedData>
+			<address>Labrador</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> HELSINKI<br>
+<b>Sum of Frequency:</b> 1070
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1070</value>
+				</Data>
+			</ExtendedData>
+			<address>HELSINKI</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> South Africa<br>
+<b>Sum of Frequency:</b> 1057
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1057</value>
+				</Data>
+			</ExtendedData>
+			<address>South Africa</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> St.Stephen<br>
+<b>Sum of Frequency:</b> 1052
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1052</value>
+				</Data>
+			</ExtendedData>
+			<address>St.Stephen</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Asia<br>
+<b>Sum of Frequency:</b> 1011
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>1011</value>
+				</Data>
+			</ExtendedData>
+			<address>Asia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BRAZIL<br>
+<b>Sum of Frequency:</b> 995
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>995</value>
+				</Data>
+			</ExtendedData>
+			<address>BRAZIL</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> COLOMBIA<br>
+<b>Sum of Frequency:</b> 988
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>988</value>
+				</Data>
+			</ExtendedData>
+			<address>COLOMBIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> United States Nearly<br>
+<b>Sum of Frequency:</b> 975
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>975</value>
+				</Data>
+			</ExtendedData>
+			<address>United States Nearly</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GAZA<br>
+<b>Sum of Frequency:</b> 962
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>962</value>
+				</Data>
+			</ExtendedData>
+			<address>GAZA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> FREDERICTON<br>
+<b>Sum of Frequency:</b> 946
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>946</value>
+				</Data>
+			</ExtendedData>
+			<address>FREDERICTON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LIBYA<br>
+<b>Sum of Frequency:</b> 929
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>929</value>
+				</Data>
+			</ExtendedData>
+			<address>LIBYA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Pacific Ocean<br>
+<b>Sum of Frequency:</b> 903
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>903</value>
+				</Data>
+			</ExtendedData>
+			<address>Pacific Ocean</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> American<br>
+<b>Sum of Frequency:</b> 883
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>883</value>
+				</Data>
+			</ExtendedData>
+			<address>American</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> REDDIT<br>
+<b>Sum of Frequency:</b> 878
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>878</value>
+				</Data>
+			</ExtendedData>
+			<address>REDDIT</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Venezuela<br>
+<b>Sum of Frequency:</b> 854
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>854</value>
+				</Data>
+			</ExtendedData>
+			<address>Venezuela</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GREAT LAKES<br>
+<b>Sum of Frequency:</b> 843
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>843</value>
+				</Data>
+			</ExtendedData>
+			<address>GREAT LAKES</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SCOTLAND<br>
+<b>Sum of Frequency:</b> 832
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>832</value>
+				</Data>
+			</ExtendedData>
+			<address>SCOTLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PACIFIC<br>
+<b>Sum of Frequency:</b> 818
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>818</value>
+				</Data>
+			</ExtendedData>
+			<address>PACIFIC</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> EARTH<br>
+<b>Sum of Frequency:</b> 817
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>817</value>
+				</Data>
+			</ExtendedData>
+			<address>EARTH</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Moncton<br>
+<b>Sum of Frequency:</b> 813
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>813</value>
+				</Data>
+			</ExtendedData>
+			<address>Moncton</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Mississauga<br>
+<b>Sum of Frequency:</b> 811
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>811</value>
+				</Data>
+			</ExtendedData>
+			<address>Mississauga</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Houston<br>
+<b>Sum of Frequency:</b> 801
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>801</value>
+				</Data>
+			</ExtendedData>
+			<address>Houston</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Black Sea<br>
+<b>Sum of Frequency:</b> 760
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>760</value>
+				</Data>
+			</ExtendedData>
+			<address>Black Sea</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Guelph<br>
+<b>Sum of Frequency:</b> 758
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>758</value>
+				</Data>
+			</ExtendedData>
+			<address>Guelph</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GATINEAU<br>
+<b>Sum of Frequency:</b> 749
+</div>]]></description>
+			<styleUrl>#Style2-point-2</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>749</value>
+				</Data>
+			</ExtendedData>
+			<address>GATINEAU</address>
+		</Placemark>
+		<Style id='Style2-point-3'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORWAY<br>
+<b>Sum of Frequency:</b> 719
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>719</value>
+				</Data>
+			</ExtendedData>
+			<address>NORWAY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SYDNEY<br>
+<b>Sum of Frequency:</b> 705
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>705</value>
+				</Data>
+			</ExtendedData>
+			<address>SYDNEY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MIDDLE EAST<br>
+<b>Sum of Frequency:</b> 705
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>705</value>
+				</Data>
+			</ExtendedData>
+			<address>MIDDLE EAST</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> HAITI<br>
+<b>Sum of Frequency:</b> 693
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>693</value>
+				</Data>
+			</ExtendedData>
+			<address>HAITI</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BURNABY<br>
+<b>Sum of Frequency:</b> 683
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>683</value>
+				</Data>
+			</ExtendedData>
+			<address>BURNABY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ATLANTIC CANADA<br>
+<b>Sum of Frequency:</b> 682
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>682</value>
+				</Data>
+			</ExtendedData>
+			<address>ATLANTIC CANADA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> FRASER RIVER<br>
+<b>Sum of Frequency:</b> 666
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>666</value>
+				</Data>
+			</ExtendedData>
+			<address>FRASER RIVER</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Chicago<br>
+<b>Sum of Frequency:</b> 653
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>653</value>
+				</Data>
+			</ExtendedData>
+			<address>Chicago</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BEIJING<br>
+<b>Sum of Frequency:</b> 652
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>652</value>
+				</Data>
+			</ExtendedData>
+			<address>BEIJING</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LATIN AMERICA<br>
+<b>Sum of Frequency:</b> 650
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>650</value>
+				</Data>
+			</ExtendedData>
+			<address>LATIN AMERICA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> West Waterloo ,<br>
+<b>Sum of Frequency:</b> 628
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>628</value>
+				</Data>
+			</ExtendedData>
+			<address>West Waterloo ,</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SWEDEN<br>
+<b>Sum of Frequency:</b> 617
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>617</value>
+				</Data>
+			</ExtendedData>
+			<address>SWEDEN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Michigan<br>
+<b>Sum of Frequency:</b> 587
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>587</value>
+				</Data>
+			</ExtendedData>
+			<address>Michigan</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Vancouver Island<br>
+<b>Sum of Frequency:</b> 562
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>562</value>
+				</Data>
+			</ExtendedData>
+			<address>Vancouver Island</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Texas<br>
+<b>Sum of Frequency:</b> 550
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>550</value>
+				</Data>
+			</ExtendedData>
+			<address>Texas</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Berlin<br>
+<b>Sum of Frequency:</b> 550
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>550</value>
+				</Data>
+			</ExtendedData>
+			<address>Berlin</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WHITEHORSE<br>
+<b>Sum of Frequency:</b> 547
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>547</value>
+				</Data>
+			</ExtendedData>
+			<address>WHITEHORSE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CHILE<br>
+<b>Sum of Frequency:</b> 546
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>546</value>
+				</Data>
+			</ExtendedData>
+			<address>CHILE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Lima<br>
+<b>Sum of Frequency:</b> 544
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>544</value>
+				</Data>
+			</ExtendedData>
+			<address>Lima</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Seattle<br>
+<b>Sum of Frequency:</b> 530
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>530</value>
+				</Data>
+			</ExtendedData>
+			<address>Seattle</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SUDBURY<br>
+<b>Sum of Frequency:</b> 510
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>510</value>
+				</Data>
+			</ExtendedData>
+			<address>SUDBURY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> HAMILTON<br>
+<b>Sum of Frequency:</b> 501
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>501</value>
+				</Data>
+			</ExtendedData>
+			<address>HAMILTON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NEW ZEALAND<br>
+<b>Sum of Frequency:</b> 501
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>501</value>
+				</Data>
+			</ExtendedData>
+			<address>NEW ZEALAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ITALY<br>
+<b>Sum of Frequency:</b> 491
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>491</value>
+				</Data>
+			</ExtendedData>
+			<address>ITALY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NANAIMO<br>
+<b>Sum of Frequency:</b> 486
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>486</value>
+				</Data>
+			</ExtendedData>
+			<address>NANAIMO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kanata<br>
+<b>Sum of Frequency:</b> 486
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>486</value>
+				</Data>
+			</ExtendedData>
+			<address>Kanata</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BRUSSELS<br>
+<b>Sum of Frequency:</b> 482
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>482</value>
+				</Data>
+			</ExtendedData>
+			<address>BRUSSELS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kingston<br>
+<b>Sum of Frequency:</b> 471
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>471</value>
+				</Data>
+			</ExtendedData>
+			<address>Kingston</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> VIETNAM<br>
+<b>Sum of Frequency:</b> 459
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>459</value>
+				</Data>
+			</ExtendedData>
+			<address>VIETNAM</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Americas<br>
+<b>Sum of Frequency:</b> 458
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>458</value>
+				</Data>
+			</ExtendedData>
+			<address>Americas</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PERU<br>
+<b>Sum of Frequency:</b> 453
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>453</value>
+				</Data>
+			</ExtendedData>
+			<address>PERU</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Palestine<br>
+<b>Sum of Frequency:</b> 451
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>451</value>
+				</Data>
+			</ExtendedData>
+			<address>Palestine</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> IRELAND<br>
+<b>Sum of Frequency:</b> 450
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>450</value>
+				</Data>
+			</ExtendedData>
+			<address>IRELAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> El Salvador<br>
+<b>Sum of Frequency:</b> 442
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>442</value>
+				</Data>
+			</ExtendedData>
+			<address>El Salvador</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Charlottetown<br>
+<b>Sum of Frequency:</b> 440
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>440</value>
+				</Data>
+			</ExtendedData>
+			<address>Charlottetown</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NUNAVUT<br>
+<b>Sum of Frequency:</b> 439
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>439</value>
+				</Data>
+			</ExtendedData>
+			<address>NUNAVUT</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> TURKEY<br>
+<b>Sum of Frequency:</b> 439
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>439</value>
+				</Data>
+			</ExtendedData>
+			<address>TURKEY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PHILLIPPINES<br>
+<b>Sum of Frequency:</b> 438
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>438</value>
+				</Data>
+			</ExtendedData>
+			<address>PHILLIPPINES</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> COCHABAMBA<br>
+<b>Sum of Frequency:</b> 431
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>431</value>
+				</Data>
+			</ExtendedData>
+			<address>COCHABAMBA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> North American<br>
+<b>Sum of Frequency:</b> 427
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>427</value>
+				</Data>
+			</ExtendedData>
+			<address>North American</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Parliament Hill<br>
+<b>Sum of Frequency:</b> 418
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>418</value>
+				</Data>
+			</ExtendedData>
+			<address>Parliament Hill</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BOLIVIA<br>
+<b>Sum of Frequency:</b> 412
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>412</value>
+				</Data>
+			</ExtendedData>
+			<address>BOLIVIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Yemen<br>
+<b>Sum of Frequency:</b> 410
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>410</value>
+				</Data>
+			</ExtendedData>
+			<address>Yemen</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> DURBAN<br>
+<b>Sum of Frequency:</b> 405
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>405</value>
+				</Data>
+			</ExtendedData>
+			<address>DURBAN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Quebec City<br>
+<b>Sum of Frequency:</b> 404
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>404</value>
+				</Data>
+			</ExtendedData>
+			<address>Quebec City</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Canadian<br>
+<b>Sum of Frequency:</b> 399
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>399</value>
+				</Data>
+			</ExtendedData>
+			<address>Canadian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Brampton<br>
+<b>Sum of Frequency:</b> 394
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>394</value>
+				</Data>
+			</ExtendedData>
+			<address>Brampton</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Windsor<br>
+<b>Sum of Frequency:</b> 392
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>392</value>
+				</Data>
+			</ExtendedData>
+			<address>Windsor</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Arctic<br>
+<b>Sum of Frequency:</b> 390
+</div>]]></description>
+			<styleUrl>#Style2-point-3</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>390</value>
+				</Data>
+			</ExtendedData>
+			<address>Arctic</address>
+		</Placemark>
+		<Style id='Style2-point-4'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Cancun<br>
+<b>Sum of Frequency:</b> 386
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>386</value>
+				</Data>
+			</ExtendedData>
+			<address>Cancun</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Los Angeles<br>
+<b>Sum of Frequency:</b> 383
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>383</value>
+				</Data>
+			</ExtendedData>
+			<address>Los Angeles</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Spain<br>
+<b>Sum of Frequency:</b> 383
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>383</value>
+				</Data>
+			</ExtendedData>
+			<address>Spain</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> KAMLOOPS<br>
+<b>Sum of Frequency:</b> 381
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>381</value>
+				</Data>
+			</ExtendedData>
+			<address>KAMLOOPS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NEW YORK CITY<br>
+<b>Sum of Frequency:</b> 369
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>369</value>
+				</Data>
+			</ExtendedData>
+			<address>NEW YORK CITY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GUATEMALA<br>
+<b>Sum of Frequency:</b> 369
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>369</value>
+				</Data>
+			</ExtendedData>
+			<address>GUATEMALA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Israeli<br>
+<b>Sum of Frequency:</b> 369
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>369</value>
+				</Data>
+			</ExtendedData>
+			<address>Israeli</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MEGANTIC<br>
+<b>Sum of Frequency:</b> 366
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>366</value>
+				</Data>
+			</ExtendedData>
+			<address>MEGANTIC</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTHWEST TERRITORIES<br>
+<b>Sum of Frequency:</b> 361
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>361</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTHWEST TERRITORIES</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NIGERIA<br>
+<b>Sum of Frequency:</b> 355
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>355</value>
+				</Data>
+			</ExtendedData>
+			<address>NIGERIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> HONG KONG<br>
+<b>Sum of Frequency:</b> 350
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>350</value>
+				</Data>
+			</ExtendedData>
+			<address>HONG KONG</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> TUNISIA<br>
+<b>Sum of Frequency:</b> 350
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>350</value>
+				</Data>
+			</ExtendedData>
+			<address>TUNISIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> EGALE CANADA<br>
+<b>Sum of Frequency:</b> 344
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>344</value>
+				</Data>
+			</ExtendedData>
+			<address>EGALE CANADA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Peterborough<br>
+<b>Sum of Frequency:</b> 343
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>343</value>
+				</Data>
+			</ExtendedData>
+			<address>Peterborough</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> HONDURAS<br>
+<b>Sum of Frequency:</b> 343
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>343</value>
+				</Data>
+			</ExtendedData>
+			<address>HONDURAS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Soviet Union<br>
+<b>Sum of Frequency:</b> 342
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>342</value>
+				</Data>
+			</ExtendedData>
+			<address>Soviet Union</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kelowna<br>
+<b>Sum of Frequency:</b> 338
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>338</value>
+				</Data>
+			</ExtendedData>
+			<address>Kelowna</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SARNIA<br>
+<b>Sum of Frequency:</b> 338
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>338</value>
+				</Data>
+			</ExtendedData>
+			<address>SARNIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WATERLOO<br>
+<b>Sum of Frequency:</b> 332
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>332</value>
+				</Data>
+			</ExtendedData>
+			<address>WATERLOO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MOTHER EARTH<br>
+<b>Sum of Frequency:</b> 327
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>327</value>
+				</Data>
+			</ExtendedData>
+			<address>MOTHER EARTH</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Wisconsin<br>
+<b>Sum of Frequency:</b> 326
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>326</value>
+				</Data>
+			</ExtendedData>
+			<address>Wisconsin</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> KOREA<br>
+<b>Sum of Frequency:</b> 317
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>317</value>
+				</Data>
+			</ExtendedData>
+			<address>KOREA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SOMALIA<br>
+<b>Sum of Frequency:</b> 315
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>315</value>
+				</Data>
+			</ExtendedData>
+			<address>SOMALIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> South Korea<br>
+<b>Sum of Frequency:</b> 314
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>314</value>
+				</Data>
+			</ExtendedData>
+			<address>South Korea</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Wellington<br>
+<b>Sum of Frequency:</b> 312
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>312</value>
+				</Data>
+			</ExtendedData>
+			<address>Wellington</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Indonesia<br>
+<b>Sum of Frequency:</b> 306
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>306</value>
+				</Data>
+			</ExtendedData>
+			<address>Indonesia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Fort McMurray<br>
+<b>Sum of Frequency:</b> 304
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>304</value>
+				</Data>
+			</ExtendedData>
+			<address>Fort McMurray</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> RUSSIAN<br>
+<b>Sum of Frequency:</b> 302
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>302</value>
+				</Data>
+			</ExtendedData>
+			<address>RUSSIAN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Congo<br>
+<b>Sum of Frequency:</b> 302
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>302</value>
+				</Data>
+			</ExtendedData>
+			<address>Congo</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Sri Lanka<br>
+<b>Sum of Frequency:</b> 296
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>296</value>
+				</Data>
+			</ExtendedData>
+			<address>Sri Lanka</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Mediterranean<br>
+<b>Sum of Frequency:</b> 295
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>295</value>
+				</Data>
+			</ExtendedData>
+			<address>Mediterranean</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Argentina<br>
+<b>Sum of Frequency:</b> 293
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>293</value>
+				</Data>
+			</ExtendedData>
+			<address>Argentina</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NETHERLANDS<br>
+<b>Sum of Frequency:</b> 291
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>291</value>
+				</Data>
+			</ExtendedData>
+			<address>NETHERLANDS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> YELLOWKNIFE<br>
+<b>Sum of Frequency:</b> 288
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>288</value>
+				</Data>
+			</ExtendedData>
+			<address>YELLOWKNIFE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Sudan<br>
+<b>Sum of Frequency:</b> 284
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>284</value>
+				</Data>
+			</ExtendedData>
+			<address>Sudan</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CAPE BRETON<br>
+<b>Sum of Frequency:</b> 275
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>275</value>
+				</Data>
+			</ExtendedData>
+			<address>CAPE BRETON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Peace River<br>
+<b>Sum of Frequency:</b> 274
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>274</value>
+				</Data>
+			</ExtendedData>
+			<address>Peace River</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTH KOREA<br>
+<b>Sum of Frequency:</b> 272
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>272</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTH KOREA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WEST<br>
+<b>Sum of Frequency:</b> 271
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>271</value>
+				</Data>
+			</ExtendedData>
+			<address>WEST</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Canada Log<br>
+<b>Sum of Frequency:</b> 267
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>267</value>
+				</Data>
+			</ExtendedData>
+			<address>Canada Log</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Denamrk<br>
+<b>Sum of Frequency:</b> 267
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>267</value>
+				</Data>
+			</ExtendedData>
+			<address>Denamrk</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GEORGIA<br>
+<b>Sum of Frequency:</b> 259
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>259</value>
+				</Data>
+			</ExtendedData>
+			<address>GEORGIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Western Canada<br>
+<b>Sum of Frequency:</b> 259
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>259</value>
+				</Data>
+			</ExtendedData>
+			<address>Western Canada</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Canadian Centre<br>
+<b>Sum of Frequency:</b> 251
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>251</value>
+				</Data>
+			</ExtendedData>
+			<address>Canadian Centre</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BANGLADESH<br>
+<b>Sum of Frequency:</b> 248
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>248</value>
+				</Data>
+			</ExtendedData>
+			<address>BANGLADESH</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MAYNE ISLAND<br>
+<b>Sum of Frequency:</b> 247
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>247</value>
+				</Data>
+			</ExtendedData>
+			<address>MAYNE ISLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Saudi<br>
+<b>Sum of Frequency:</b> 247
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>247</value>
+				</Data>
+			</ExtendedData>
+			<address>Saudi</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> OSHAWA<br>
+<b>Sum of Frequency:</b> 246
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>246</value>
+				</Data>
+			</ExtendedData>
+			<address>OSHAWA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Saanich Inlet<br>
+<b>Sum of Frequency:</b> 246
+</div>]]></description>
+			<styleUrl>#Style2-point-4</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>246</value>
+				</Data>
+			</ExtendedData>
+			<address>Saanich Inlet</address>
+		</Placemark>
+		<Style id='Style2-point-5'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Boston<br>
+<b>Sum of Frequency:</b> 244
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>244</value>
+				</Data>
+			</ExtendedData>
+			<address>Boston</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kitchener<br>
+<b>Sum of Frequency:</b> 242
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>242</value>
+				</Data>
+			</ExtendedData>
+			<address>Kitchener</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GREENBELT<br>
+<b>Sum of Frequency:</b> 241
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>241</value>
+				</Data>
+			</ExtendedData>
+			<address>GREENBELT</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Caribbean<br>
+<b>Sum of Frequency:</b> 238
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>238</value>
+				</Data>
+			</ExtendedData>
+			<address>Caribbean</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GULF OF ST LAWRENCE<br>
+<b>Sum of Frequency:</b> 238
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>238</value>
+				</Data>
+			</ExtendedData>
+			<address>GULF OF ST LAWRENCE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> RWANDA<br>
+<b>Sum of Frequency:</b> 235
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>235</value>
+				</Data>
+			</ExtendedData>
+			<address>RWANDA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Inner City<br>
+<b>Sum of Frequency:</b> 233
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>233</value>
+				</Data>
+			</ExtendedData>
+			<address>Inner City</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Athabasca<br>
+<b>Sum of Frequency:</b> 232
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>232</value>
+				</Data>
+			</ExtendedData>
+			<address>Athabasca</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Moscow<br>
+<b>Sum of Frequency:</b> 232
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>232</value>
+				</Data>
+			</ExtendedData>
+			<address>Moscow</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MEXICO CITY<br>
+<b>Sum of Frequency:</b> 228
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>228</value>
+				</Data>
+			</ExtendedData>
+			<address>MEXICO CITY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Palestinian<br>
+<b>Sum of Frequency:</b> 226
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>226</value>
+				</Data>
+			</ExtendedData>
+			<address>Palestinian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MOUNT POLLEY<br>
+<b>Sum of Frequency:</b> 226
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>226</value>
+				</Data>
+			</ExtendedData>
+			<address>MOUNT POLLEY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ALASKA<br>
+<b>Sum of Frequency:</b> 226
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>226</value>
+				</Data>
+			</ExtendedData>
+			<address>ALASKA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTH VANCOUVER<br>
+<b>Sum of Frequency:</b> 222
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>222</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTH VANCOUVER</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kenya<br>
+<b>Sum of Frequency:</b> 222
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>222</value>
+				</Data>
+			</ExtendedData>
+			<address>Kenya</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ATHENS<br>
+<b>Sum of Frequency:</b> 221
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>221</value>
+				</Data>
+			</ExtendedData>
+			<address>ATHENS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> URUGUAY<br>
+<b>Sum of Frequency:</b> 219
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>219</value>
+				</Data>
+			</ExtendedData>
+			<address>URUGUAY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Sochi<br>
+<b>Sum of Frequency:</b> 219
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>219</value>
+				</Data>
+			</ExtendedData>
+			<address>Sochi</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Ghana<br>
+<b>Sum of Frequency:</b> 219
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>219</value>
+				</Data>
+			</ExtendedData>
+			<address>Ghana</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ECUADOR<br>
+<b>Sum of Frequency:</b> 218
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>218</value>
+				</Data>
+			</ExtendedData>
+			<address>ECUADOR</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CACOUNA<br>
+<b>Sum of Frequency:</b> 216
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>216</value>
+				</Data>
+			</ExtendedData>
+			<address>CACOUNA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Uganda<br>
+<b>Sum of Frequency:</b> 216
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>216</value>
+				</Data>
+			</ExtendedData>
+			<address>Uganda</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Niagara Falls<br>
+<b>Sum of Frequency:</b> 212
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>212</value>
+				</Data>
+			</ExtendedData>
+			<address>Niagara Falls</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LAKE WINNIPEG<br>
+<b>Sum of Frequency:</b> 211
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>211</value>
+				</Data>
+			</ExtendedData>
+			<address>LAKE WINNIPEG</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> European<br>
+<b>Sum of Frequency:</b> 209
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>209</value>
+				</Data>
+			</ExtendedData>
+			<address>European</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> DOHA<br>
+<b>Sum of Frequency:</b> 207
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>207</value>
+				</Data>
+			</ExtendedData>
+			<address>DOHA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> London, Ontario<br>
+<b>Sum of Frequency:</b> 206
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>206</value>
+				</Data>
+			</ExtendedData>
+			<address>London, Ontario</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MALI<br>
+<b>Sum of Frequency:</b> 200
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>200</value>
+				</Data>
+			</ExtendedData>
+			<address>MALI</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTH BAY<br>
+<b>Sum of Frequency:</b> 199
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>199</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTH BAY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Nicaragua<br>
+<b>Sum of Frequency:</b> 198
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>198</value>
+				</Data>
+			</ExtendedData>
+			<address>Nicaragua</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SAN FRANCISCO<br>
+<b>Sum of Frequency:</b> 197
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>197</value>
+				</Data>
+			</ExtendedData>
+			<address>SAN FRANCISCO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Cairo<br>
+<b>Sum of Frequency:</b> 196
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>196</value>
+				</Data>
+			</ExtendedData>
+			<address>Cairo</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> EGALE<br>
+<b>Sum of Frequency:</b> 196
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>196</value>
+				</Data>
+			</ExtendedData>
+			<address>EGALE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GULF OF MEXICO<br>
+<b>Sum of Frequency:</b> 195
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>195</value>
+				</Data>
+			</ExtendedData>
+			<address>GULF OF MEXICO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> KOSOVO<br>
+<b>Sum of Frequency:</b> 194
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>194</value>
+				</Data>
+			</ExtendedData>
+			<address>KOSOVO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Jersey<br>
+<b>Sum of Frequency:</b> 192
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>192</value>
+				</Data>
+			</ExtendedData>
+			<address>Jersey</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Syrian<br>
+<b>Sum of Frequency:</b> 192
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>192</value>
+				</Data>
+			</ExtendedData>
+			<address>Syrian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Canley Heights<br>
+<b>Sum of Frequency:</b> 191
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>191</value>
+				</Data>
+			</ExtendedData>
+			<address>Canley Heights</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BURMA<br>
+<b>Sum of Frequency:</b> 188
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>188</value>
+				</Data>
+			</ExtendedData>
+			<address>BURMA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Ryan McDonagh Authentic Jersey<br>
+<b>Sum of Frequency:</b> 188
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>188</value>
+				</Data>
+			</ExtendedData>
+			<address>Ryan McDonagh Authentic Jersey</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Asia Rick Nash Jersey<br>
+<b>Sum of Frequency:</b> 188
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>188</value>
+				</Data>
+			</ExtendedData>
+			<address>Asia Rick Nash Jersey</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Valtteri Filppula Jersey<br>
+<b>Sum of Frequency:</b> 188
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>188</value>
+				</Data>
+			</ExtendedData>
+			<address>Valtteri Filppula Jersey</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LAKE HURON<br>
+<b>Sum of Frequency:</b> 186
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>186</value>
+				</Data>
+			</ExtendedData>
+			<address>LAKE HURON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Campbell River<br>
+<b>Sum of Frequency:</b> 186
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>186</value>
+				</Data>
+			</ExtendedData>
+			<address>Campbell River</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Regina<br>
+<b>Sum of Frequency:</b> 184
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>184</value>
+				</Data>
+			</ExtendedData>
+			<address>Regina</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Florida<br>
+<b>Sum of Frequency:</b> 184
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>184</value>
+				</Data>
+			</ExtendedData>
+			<address>Florida</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Mardi<br>
+<b>Sum of Frequency:</b> 181
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>181</value>
+				</Data>
+			</ExtendedData>
+			<address>Mardi</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> HUNGARY<br>
+<b>Sum of Frequency:</b> 180
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>180</value>
+				</Data>
+			</ExtendedData>
+			<address>HUNGARY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LONGUEUIL<br>
+<b>Sum of Frequency:</b> 179
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>179</value>
+				</Data>
+			</ExtendedData>
+			<address>LONGUEUIL</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bayfield<br>
+<b>Sum of Frequency:</b> 179
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>179</value>
+				</Data>
+			</ExtendedData>
+			<address>Bayfield</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Attawapiskat<br>
+<b>Sum of Frequency:</b> 179
+</div>]]></description>
+			<styleUrl>#Style2-point-5</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>179</value>
+				</Data>
+			</ExtendedData>
+			<address>Attawapiskat</address>
+		</Placemark>
+		<Style id='Style2-point-6'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Etobicoke<br>
+<b>Sum of Frequency:</b> 178
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>178</value>
+				</Data>
+			</ExtendedData>
+			<address>Etobicoke</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> French<br>
+<b>Sum of Frequency:</b> 178
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>178</value>
+				</Data>
+			</ExtendedData>
+			<address>French</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Comox Valley<br>
+<b>Sum of Frequency:</b> 178
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>178</value>
+				</Data>
+			</ExtendedData>
+			<address>Comox Valley</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> POLAND<br>
+<b>Sum of Frequency:</b> 176
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>176</value>
+				</Data>
+			</ExtendedData>
+			<address>POLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CANADA, UNITED STATES<br>
+<b>Sum of Frequency:</b> 175
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>175</value>
+				</Data>
+			</ExtendedData>
+			<address>CANADA, UNITED STATES</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MAINE<br>
+<b>Sum of Frequency:</b> 175
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>175</value>
+				</Data>
+			</ExtendedData>
+			<address>MAINE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Switzerland<br>
+<b>Sum of Frequency:</b> 174
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>174</value>
+				</Data>
+			</ExtendedData>
+			<address>Switzerland</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Lethbridge<br>
+<b>Sum of Frequency:</b> 174
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>174</value>
+				</Data>
+			</ExtendedData>
+			<address>Lethbridge</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bolivian<br>
+<b>Sum of Frequency:</b> 174
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>174</value>
+				</Data>
+			</ExtendedData>
+			<address>Bolivian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Burnaby Mountain<br>
+<b>Sum of Frequency:</b> 174
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>174</value>
+				</Data>
+			</ExtendedData>
+			<address>Burnaby Mountain</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LAKE ONTARIO<br>
+<b>Sum of Frequency:</b> 173
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>173</value>
+				</Data>
+			</ExtendedData>
+			<address>LAKE ONTARIO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kenora<br>
+<b>Sum of Frequency:</b> 173
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>173</value>
+				</Data>
+			</ExtendedData>
+			<address>Kenora</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Austria<br>
+<b>Sum of Frequency:</b> 173
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>173</value>
+				</Data>
+			</ExtendedData>
+			<address>Austria</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CORNWALL<br>
+<b>Sum of Frequency:</b> 172
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>172</value>
+				</Data>
+			</ExtendedData>
+			<address>CORNWALL</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> THUNDER BAY<br>
+<b>Sum of Frequency:</b> 171
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>171</value>
+				</Data>
+			</ExtendedData>
+			<address>THUNDER BAY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Cuban<br>
+<b>Sum of Frequency:</b> 171
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>171</value>
+				</Data>
+			</ExtendedData>
+			<address>Cuban</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ST.LAWRENCE<br>
+<b>Sum of Frequency:</b> 170
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>170</value>
+				</Data>
+			</ExtendedData>
+			<address>ST.LAWRENCE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SYRIZA<br>
+<b>Sum of Frequency:</b> 169
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>169</value>
+				</Data>
+			</ExtendedData>
+			<address>SYRIZA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> South<br>
+<b>Sum of Frequency:</b> 168
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>168</value>
+				</Data>
+			</ExtendedData>
+			<address>South</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Pacific Rim<br>
+<b>Sum of Frequency:</b> 166
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>166</value>
+				</Data>
+			</ExtendedData>
+			<address>Pacific Rim</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Lebanon<br>
+<b>Sum of Frequency:</b> 166
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>166</value>
+				</Data>
+			</ExtendedData>
+			<address>Lebanon</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> COSTA RICA<br>
+<b>Sum of Frequency:</b> 165
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>165</value>
+				</Data>
+			</ExtendedData>
+			<address>COSTA RICA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ATLANTICA<br>
+<b>Sum of Frequency:</b> 164
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>164</value>
+				</Data>
+			</ExtendedData>
+			<address>ATLANTICA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Iraqi<br>
+<b>Sum of Frequency:</b> 164
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>164</value>
+				</Data>
+			</ExtendedData>
+			<address>Iraqi</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WARSAW<br>
+<b>Sum of Frequency:</b> 162
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>162</value>
+				</Data>
+			</ExtendedData>
+			<address>WARSAW</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Pennsylvania<br>
+<b>Sum of Frequency:</b> 161
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>161</value>
+				</Data>
+			</ExtendedData>
+			<address>Pennsylvania</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> United Arab Emirates<br>
+<b>Sum of Frequency:</b> 161
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>161</value>
+				</Data>
+			</ExtendedData>
+			<address>United Arab Emirates</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NEW WESTMINSTER<br>
+<b>Sum of Frequency:</b> 161
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>161</value>
+				</Data>
+			</ExtendedData>
+			<address>NEW WESTMINSTER</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> RIO DE JANEIRO<br>
+<b>Sum of Frequency:</b> 161
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>161</value>
+				</Data>
+			</ExtendedData>
+			<address>RIO DE JANEIRO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bahraini<br>
+<b>Sum of Frequency:</b> 159
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>159</value>
+				</Data>
+			</ExtendedData>
+			<address>Bahraini</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PARAGUAY<br>
+<b>Sum of Frequency:</b> 157
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>157</value>
+				</Data>
+			</ExtendedData>
+			<address>PARAGUAY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> COLORADO<br>
+<b>Sum of Frequency:</b> 156
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>156</value>
+				</Data>
+			</ExtendedData>
+			<address>COLORADO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kiev<br>
+<b>Sum of Frequency:</b> 156
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>156</value>
+				</Data>
+			</ExtendedData>
+			<address>Kiev</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ABBOTSFORD<br>
+<b>Sum of Frequency:</b> 155
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>155</value>
+				</Data>
+			</ExtendedData>
+			<address>ABBOTSFORD</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ROMANIA<br>
+<b>Sum of Frequency:</b> 155
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>155</value>
+				</Data>
+			</ExtendedData>
+			<address>ROMANIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Johannesburg<br>
+<b>Sum of Frequency:</b> 155
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>155</value>
+				</Data>
+			</ExtendedData>
+			<address>Johannesburg</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Brockville<br>
+<b>Sum of Frequency:</b> 154
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>154</value>
+				</Data>
+			</ExtendedData>
+			<address>Brockville</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Tar Sands<br>
+<b>Sum of Frequency:</b> 154
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>154</value>
+				</Data>
+			</ExtendedData>
+			<address>Tar Sands</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BURLINGTON<br>
+<b>Sum of Frequency:</b> 154
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>154</value>
+				</Data>
+			</ExtendedData>
+			<address>BURLINGTON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NEPAL<br>
+<b>Sum of Frequency:</b> 153
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>153</value>
+				</Data>
+			</ExtendedData>
+			<address>NEPAL</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PRAIRIES<br>
+<b>Sum of Frequency:</b> 153
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>153</value>
+				</Data>
+			</ExtendedData>
+			<address>PRAIRIES</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> THAILAND<br>
+<b>Sum of Frequency:</b> 152
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>152</value>
+				</Data>
+			</ExtendedData>
+			<address>THAILAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Melbourne<br>
+<b>Sum of Frequency:</b> 152
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>152</value>
+				</Data>
+			</ExtendedData>
+			<address>Melbourne</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SOUTH AMERICA<br>
+<b>Sum of Frequency:</b> 150
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>150</value>
+				</Data>
+			</ExtendedData>
+			<address>SOUTH AMERICA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CANADA HEALTH<br>
+<b>Sum of Frequency:</b> 149
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>149</value>
+				</Data>
+			</ExtendedData>
+			<address>CANADA HEALTH</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BAY STREET<br>
+<b>Sum of Frequency:</b> 149
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>149</value>
+				</Data>
+			</ExtendedData>
+			<address>BAY STREET</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CAMBRIDGE<br>
+<b>Sum of Frequency:</b> 147
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>147</value>
+				</Data>
+			</ExtendedData>
+			<address>CAMBRIDGE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Haida Gwaii<br>
+<b>Sum of Frequency:</b> 147
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>147</value>
+				</Data>
+			</ExtendedData>
+			<address>Haida Gwaii</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Colombian<br>
+<b>Sum of Frequency:</b> 147
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>147</value>
+				</Data>
+			</ExtendedData>
+			<address>Colombian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> TURTLE ISLAND<br>
+<b>Sum of Frequency:</b> 146
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>146</value>
+				</Data>
+			</ExtendedData>
+			<address>TURTLE ISLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PORTUGAL<br>
+<b>Sum of Frequency:</b> 146
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>146</value>
+				</Data>
+			</ExtendedData>
+			<address>PORTUGAL</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> KALAMAZOO<br>
+<b>Sum of Frequency:</b> 145
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>145</value>
+				</Data>
+			</ExtendedData>
+			<address>KALAMAZOO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BELGIUM<br>
+<b>Sum of Frequency:</b> 145
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>145</value>
+				</Data>
+			</ExtendedData>
+			<address>BELGIUM</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MALAYSIA<br>
+<b>Sum of Frequency:</b> 145
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>145</value>
+				</Data>
+			</ExtendedData>
+			<address>MALAYSIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Surrey<br>
+<b>Sum of Frequency:</b> 145
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>145</value>
+				</Data>
+			</ExtendedData>
+			<address>Surrey</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Rio Tinto<br>
+<b>Sum of Frequency:</b> 145
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>145</value>
+				</Data>
+			</ExtendedData>
+			<address>Rio Tinto</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> QATAR<br>
+<b>Sum of Frequency:</b> 144
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>144</value>
+				</Data>
+			</ExtendedData>
+			<address>QATAR</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTHUMBERLAND<br>
+<b>Sum of Frequency:</b> 143
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>143</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTHUMBERLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> DUBLIN<br>
+<b>Sum of Frequency:</b> 143
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>143</value>
+				</Data>
+			</ExtendedData>
+			<address>DUBLIN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> TURKMENISTAN<br>
+<b>Sum of Frequency:</b> 143
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>143</value>
+				</Data>
+			</ExtendedData>
+			<address>TURKMENISTAN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> P.C.<br>
+<b>Sum of Frequency:</b> 142
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>142</value>
+				</Data>
+			</ExtendedData>
+			<address>P.C.</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> supra ,<br>
+<b>Sum of Frequency:</b> 141
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>141</value>
+				</Data>
+			</ExtendedData>
+			<address>supra ,</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTH DAKOTA<br>
+<b>Sum of Frequency:</b> 141
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>141</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTH DAKOTA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Diwali<br>
+<b>Sum of Frequency:</b> 141
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>141</value>
+				</Data>
+			</ExtendedData>
+			<address>Diwali</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> KRONSTADT<br>
+<b>Sum of Frequency:</b> 140
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>140</value>
+				</Data>
+			</ExtendedData>
+			<address>KRONSTADT</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Prince Edward Island<br>
+<b>Sum of Frequency:</b> 139
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>139</value>
+				</Data>
+			</ExtendedData>
+			<address>Prince Edward Island</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Inverness County<br>
+<b>Sum of Frequency:</b> 139
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>139</value>
+				</Data>
+			</ExtendedData>
+			<address>Inverness County</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Middle Brook<br>
+<b>Sum of Frequency:</b> 139
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>139</value>
+				</Data>
+			</ExtendedData>
+			<address>Middle Brook</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Indonesian<br>
+<b>Sum of Frequency:</b> 138
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>138</value>
+				</Data>
+			</ExtendedData>
+			<address>Indonesian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Egyptian<br>
+<b>Sum of Frequency:</b> 137
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>137</value>
+				</Data>
+			</ExtendedData>
+			<address>Egyptian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ELSIPOGTOG<br>
+<b>Sum of Frequency:</b> 137
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>137</value>
+				</Data>
+			</ExtendedData>
+			<address>ELSIPOGTOG</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> VERMONT<br>
+<b>Sum of Frequency:</b> 136
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>136</value>
+				</Data>
+			</ExtendedData>
+			<address>VERMONT</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ZIMBABWE<br>
+<b>Sum of Frequency:</b> 135
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>135</value>
+				</Data>
+			</ExtendedData>
+			<address>ZIMBABWE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> New Jersey<br>
+<b>Sum of Frequency:</b> 135
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>135</value>
+				</Data>
+			</ExtendedData>
+			<address>New Jersey</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Elora , Ontario ,<br>
+<b>Sum of Frequency:</b> 134
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>134</value>
+				</Data>
+			</ExtendedData>
+			<address>Elora , Ontario ,</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> AMAZON<br>
+<b>Sum of Frequency:</b> 131
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>131</value>
+				</Data>
+			</ExtendedData>
+			<address>AMAZON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GULF<br>
+<b>Sum of Frequency:</b> 131
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>131</value>
+				</Data>
+			</ExtendedData>
+			<address>GULF</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Cyprus<br>
+<b>Sum of Frequency:</b> 131
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>131</value>
+				</Data>
+			</ExtendedData>
+			<address>Cyprus</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Syrie<br>
+<b>Sum of Frequency:</b> 129
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>129</value>
+				</Data>
+			</ExtendedData>
+			<address>Syrie</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Rio<br>
+<b>Sum of Frequency:</b> 129
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>129</value>
+				</Data>
+			</ExtendedData>
+			<address>Rio</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Davos<br>
+<b>Sum of Frequency:</b> 128
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>128</value>
+				</Data>
+			</ExtendedData>
+			<address>Davos</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Langley<br>
+<b>Sum of Frequency:</b> 126
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>126</value>
+				</Data>
+			</ExtendedData>
+			<address>Langley</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> HOLLYWOOD<br>
+<b>Sum of Frequency:</b> 125
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>125</value>
+				</Data>
+			</ExtendedData>
+			<address>HOLLYWOOD</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WALES<br>
+<b>Sum of Frequency:</b> 124
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>124</value>
+				</Data>
+			</ExtendedData>
+			<address>WALES</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> British<br>
+<b>Sum of Frequency:</b> 124
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>124</value>
+				</Data>
+			</ExtendedData>
+			<address>British</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Portage<br>
+<b>Sum of Frequency:</b> 123
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>123</value>
+				</Data>
+			</ExtendedData>
+			<address>Portage</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Nova Scotia Office<br>
+<b>Sum of Frequency:</b> 122
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>122</value>
+				</Data>
+			</ExtendedData>
+			<address>Nova Scotia Office</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Donnottar ,<br>
+<b>Sum of Frequency:</b> 121
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>121</value>
+				</Data>
+			</ExtendedData>
+			<address>Donnottar ,</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Elora Quarry<br>
+<b>Sum of Frequency:</b> 121
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>121</value>
+				</Data>
+			</ExtendedData>
+			<address>Elora Quarry</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Asian<br>
+<b>Sum of Frequency:</b> 121
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>121</value>
+				</Data>
+			</ExtendedData>
+			<address>Asian</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Guantanamo<br>
+<b>Sum of Frequency:</b> 121
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>121</value>
+				</Data>
+			</ExtendedData>
+			<address>Guantanamo</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Sault<br>
+<b>Sum of Frequency:</b> 120
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>120</value>
+				</Data>
+			</ExtendedData>
+			<address>Sault</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> KALAMAZOO RIVER<br>
+<b>Sum of Frequency:</b> 120
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>120</value>
+				</Data>
+			</ExtendedData>
+			<address>KALAMAZOO RIVER</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Fraser Valley<br>
+<b>Sum of Frequency:</b> 119
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>119</value>
+				</Data>
+			</ExtendedData>
+			<address>Fraser Valley</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Thousand Islands<br>
+<b>Sum of Frequency:</b> 118
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>118</value>
+				</Data>
+			</ExtendedData>
+			<address>Thousand Islands</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Nebraska<br>
+<b>Sum of Frequency:</b> 118
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>118</value>
+				</Data>
+			</ExtendedData>
+			<address>Nebraska</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> KANDAHAR<br>
+<b>Sum of Frequency:</b> 118
+</div>]]></description>
+			<styleUrl>#Style2-point-6</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>118</value>
+				</Data>
+			</ExtendedData>
+			<address>KANDAHAR</address>
+		</Placemark>
+		<Style id='Style2-point-7'>
+			<IconStyle>
+				<color>ffee48e3</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ASIA, CENTRAL ASIA<br>
+<b>Sum of Frequency:</b> 117
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>117</value>
+				</Data>
+			</ExtendedData>
+			<address>ASIA, CENTRAL ASIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BELLEVILLE<br>
+<b>Sum of Frequency:</b> 117
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>117</value>
+				</Data>
+			</ExtendedData>
+			<address>BELLEVILLE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bangkok<br>
+<b>Sum of Frequency:</b> 116
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>116</value>
+				</Data>
+			</ExtendedData>
+			<address>Bangkok</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BALI<br>
+<b>Sum of Frequency:</b> 116
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>116</value>
+				</Data>
+			</ExtendedData>
+			<address>BALI</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Guantanamo Bay<br>
+<b>Sum of Frequency:</b> 115
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>115</value>
+				</Data>
+			</ExtendedData>
+			<address>Guantanamo Bay</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> COLCHESTER COUNTY<br>
+<b>Sum of Frequency:</b> 115
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>115</value>
+				</Data>
+			</ExtendedData>
+			<address>COLCHESTER COUNTY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Mount Polley Chiropractic<br>
+<b>Sum of Frequency:</b> 114
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>114</value>
+				</Data>
+			</ExtendedData>
+			<address>Mount Polley Chiropractic</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Baltimore<br>
+<b>Sum of Frequency:</b> 113
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>113</value>
+				</Data>
+			</ExtendedData>
+			<address>Baltimore</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> OAKVILLE<br>
+<b>Sum of Frequency:</b> 112
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>112</value>
+				</Data>
+			</ExtendedData>
+			<address>OAKVILLE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> VICTORIA ISLAND<br>
+<b>Sum of Frequency:</b> 112
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>112</value>
+				</Data>
+			</ExtendedData>
+			<address>VICTORIA ISLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Hawaii<br>
+<b>Sum of Frequency:</b> 112
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>112</value>
+				</Data>
+			</ExtendedData>
+			<address>Hawaii</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> COLUMBIA<br>
+<b>Sum of Frequency:</b> 111
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>111</value>
+				</Data>
+			</ExtendedData>
+			<address>COLUMBIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> HIROSHIMA<br>
+<b>Sum of Frequency:</b> 111
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>111</value>
+				</Data>
+			</ExtendedData>
+			<address>HIROSHIMA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bridgewater<br>
+<b>Sum of Frequency:</b> 111
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>111</value>
+				</Data>
+			</ExtendedData>
+			<address>Bridgewater</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Chinese<br>
+<b>Sum of Frequency:</b> 110
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>110</value>
+				</Data>
+			</ExtendedData>
+			<address>Chinese</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Whistler<br>
+<b>Sum of Frequency:</b> 110
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>110</value>
+				</Data>
+			</ExtendedData>
+			<address>Whistler</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PACIFIC COAST<br>
+<b>Sum of Frequency:</b> 110
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>110</value>
+				</Data>
+			</ExtendedData>
+			<address>PACIFIC COAST</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Durham<br>
+<b>Sum of Frequency:</b> 110
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>110</value>
+				</Data>
+			</ExtendedData>
+			<address>Durham</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Powell River<br>
+<b>Sum of Frequency:</b> 110
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>110</value>
+				</Data>
+			</ExtendedData>
+			<address>Powell River</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MASSACHUSETTS<br>
+<b>Sum of Frequency:</b> 109
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>109</value>
+				</Data>
+			</ExtendedData>
+			<address>MASSACHUSETTS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Shoal Lake<br>
+<b>Sum of Frequency:</b> 108
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>108</value>
+				</Data>
+			</ExtendedData>
+			<address>Shoal Lake</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Revelstoke<br>
+<b>Sum of Frequency:</b> 108
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>108</value>
+				</Data>
+			</ExtendedData>
+			<address>Revelstoke</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kent County<br>
+<b>Sum of Frequency:</b> 107
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>107</value>
+				</Data>
+			</ExtendedData>
+			<address>Kent County</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Panama<br>
+<b>Sum of Frequency:</b> 107
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>107</value>
+				</Data>
+			</ExtendedData>
+			<address>Panama</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WELLAND<br>
+<b>Sum of Frequency:</b> 107
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>107</value>
+				</Data>
+			</ExtendedData>
+			<address>WELLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> TAIWAN<br>
+<b>Sum of Frequency:</b> 107
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>107</value>
+				</Data>
+			</ExtendedData>
+			<address>TAIWAN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ANGOLA<br>
+<b>Sum of Frequency:</b> 107
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>107</value>
+				</Data>
+			</ExtendedData>
+			<address>ANGOLA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ATLANTA<br>
+<b>Sum of Frequency:</b> 106
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>106</value>
+				</Data>
+			</ExtendedData>
+			<address>ATLANTA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WALKERTON<br>
+<b>Sum of Frequency:</b> 106
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>106</value>
+				</Data>
+			</ExtendedData>
+			<address>WALKERTON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BRANTFORD<br>
+<b>Sum of Frequency:</b> 106
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>106</value>
+				</Data>
+			</ExtendedData>
+			<address>BRANTFORD</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Perth<br>
+<b>Sum of Frequency:</b> 105
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>105</value>
+				</Data>
+			</ExtendedData>
+			<address>Perth</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SQUAMISH<br>
+<b>Sum of Frequency:</b> 105
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>105</value>
+				</Data>
+			</ExtendedData>
+			<address>SQUAMISH</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MOROCCO<br>
+<b>Sum of Frequency:</b> 104
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>104</value>
+				</Data>
+			</ExtendedData>
+			<address>MOROCCO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Loreto<br>
+<b>Sum of Frequency:</b> 104
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>104</value>
+				</Data>
+			</ExtendedData>
+			<address>Loreto</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> JOLIETTE<br>
+<b>Sum of Frequency:</b> 103
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>103</value>
+				</Data>
+			</ExtendedData>
+			<address>JOLIETTE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MARKHAM<br>
+<b>Sum of Frequency:</b> 103
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>103</value>
+				</Data>
+			</ExtendedData>
+			<address>MARKHAM</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Shawnigan Lake<br>
+<b>Sum of Frequency:</b> 103
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>103</value>
+				</Data>
+			</ExtendedData>
+			<address>Shawnigan Lake</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Korean<br>
+<b>Sum of Frequency:</b> 103
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>103</value>
+				</Data>
+			</ExtendedData>
+			<address>Korean</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Greenland<br>
+<b>Sum of Frequency:</b> 102
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>102</value>
+				</Data>
+			</ExtendedData>
+			<address>Greenland</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Beaufort Sea<br>
+<b>Sum of Frequency:</b> 101
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>101</value>
+				</Data>
+			</ExtendedData>
+			<address>Beaufort Sea</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WASHINGTON STATE<br>
+<b>Sum of Frequency:</b> 101
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>101</value>
+				</Data>
+			</ExtendedData>
+			<address>WASHINGTON STATE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Vaisakhi<br>
+<b>Sum of Frequency:</b> 101
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>101</value>
+				</Data>
+			</ExtendedData>
+			<address>Vaisakhi</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Atlantic Coast<br>
+<b>Sum of Frequency:</b> 101
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>101</value>
+				</Data>
+			</ExtendedData>
+			<address>Atlantic Coast</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Delhi<br>
+<b>Sum of Frequency:</b> 100
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>100</value>
+				</Data>
+			</ExtendedData>
+			<address>Delhi</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Mozambique<br>
+<b>Sum of Frequency:</b> 100
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>100</value>
+				</Data>
+			</ExtendedData>
+			<address>Mozambique</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> New Delhi<br>
+<b>Sum of Frequency:</b> 100
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>100</value>
+				</Data>
+			</ExtendedData>
+			<address>New Delhi</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BONN<br>
+<b>Sum of Frequency:</b> 99
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>99</value>
+				</Data>
+			</ExtendedData>
+			<address>BONN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Ramsey Lake<br>
+<b>Sum of Frequency:</b> 99
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>99</value>
+				</Data>
+			</ExtendedData>
+			<address>Ramsey Lake</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Beauce<br>
+<b>Sum of Frequency:</b> 99
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>99</value>
+				</Data>
+			</ExtendedData>
+			<address>Beauce</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Guadalajara<br>
+<b>Sum of Frequency:</b> 99
+</div>]]></description>
+			<styleUrl>#Style2-point-7</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>99</value>
+				</Data>
+			</ExtendedData>
+			<address>Guadalajara</address>
+		</Placemark>
+		<Style id='Style2-point-8'>
+			<IconStyle>
+				<color>ff00ff55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> New England<br>
+<b>Sum of Frequency:</b> 98
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>98</value>
+				</Data>
+			</ExtendedData>
+			<address>New England</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bhutan<br>
+<b>Sum of Frequency:</b> 98
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>98</value>
+				</Data>
+			</ExtendedData>
+			<address>Bhutan</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Jerusalem<br>
+<b>Sum of Frequency:</b> 98
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>98</value>
+				</Data>
+			</ExtendedData>
+			<address>Jerusalem</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Niagara<br>
+<b>Sum of Frequency:</b> 98
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>98</value>
+				</Data>
+			</ExtendedData>
+			<address>Niagara</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CAMBODIA<br>
+<b>Sum of Frequency:</b> 98
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>98</value>
+				</Data>
+			</ExtendedData>
+			<address>CAMBODIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ATHABASCA RIVER<br>
+<b>Sum of Frequency:</b> 98
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>98</value>
+				</Data>
+			</ExtendedData>
+			<address>ATHABASCA RIVER</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> OHIO<br>
+<b>Sum of Frequency:</b> 98
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>98</value>
+				</Data>
+			</ExtendedData>
+			<address>OHIO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Tennessee<br>
+<b>Sum of Frequency:</b> 97
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>97</value>
+				</Data>
+			</ExtendedData>
+			<address>Tennessee</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Yugoslavia<br>
+<b>Sum of Frequency:</b> 97
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>97</value>
+				</Data>
+			</ExtendedData>
+			<address>Yugoslavia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Riverview<br>
+<b>Sum of Frequency:</b> 97
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>97</value>
+				</Data>
+			</ExtendedData>
+			<address>Riverview</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Kuwait<br>
+<b>Sum of Frequency:</b> 97
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>97</value>
+				</Data>
+			</ExtendedData>
+			<address>Kuwait</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> South Shore<br>
+<b>Sum of Frequency:</b> 96
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>96</value>
+				</Data>
+			</ExtendedData>
+			<address>South Shore</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PUERTO RICO<br>
+<b>Sum of Frequency:</b> 96
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>96</value>
+				</Data>
+			</ExtendedData>
+			<address>PUERTO RICO</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Rosia Montana<br>
+<b>Sum of Frequency:</b> 96
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>96</value>
+				</Data>
+			</ExtendedData>
+			<address>Rosia Montana</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Richtree<br>
+<b>Sum of Frequency:</b> 95
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>95</value>
+				</Data>
+			</ExtendedData>
+			<address>Richtree</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SELMA<br>
+<b>Sum of Frequency:</b> 95
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>95</value>
+				</Data>
+			</ExtendedData>
+			<address>SELMA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Rosedale<br>
+<b>Sum of Frequency:</b> 95
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>95</value>
+				</Data>
+			</ExtendedData>
+			<address>Rosedale</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ALGERIA<br>
+<b>Sum of Frequency:</b> 94
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>94</value>
+				</Data>
+			</ExtendedData>
+			<address>ALGERIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Portland<br>
+<b>Sum of Frequency:</b> 94
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>94</value>
+				</Data>
+			</ExtendedData>
+			<address>Portland</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Palestinians<br>
+<b>Sum of Frequency:</b> 94
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>94</value>
+				</Data>
+			</ExtendedData>
+			<address>Palestinians</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Canada Menu Skip<br>
+<b>Sum of Frequency:</b> 93
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>93</value>
+				</Data>
+			</ExtendedData>
+			<address>Canada Menu Skip</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Utah<br>
+<b>Sum of Frequency:</b> 93
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>93</value>
+				</Data>
+			</ExtendedData>
+			<address>Utah</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CLYDE RIVER<br>
+<b>Sum of Frequency:</b> 93
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>93</value>
+				</Data>
+			</ExtendedData>
+			<address>CLYDE RIVER</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Fish Lake<br>
+<b>Sum of Frequency:</b> 93
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>93</value>
+				</Data>
+			</ExtendedData>
+			<address>Fish Lake</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Minnesota<br>
+<b>Sum of Frequency:</b> 92
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>92</value>
+				</Data>
+			</ExtendedData>
+			<address>Minnesota</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Toronto Log<br>
+<b>Sum of Frequency:</b> 92
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>92</value>
+				</Data>
+			</ExtendedData>
+			<address>Toronto Log</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WAKEFIELD<br>
+<b>Sum of Frequency:</b> 92
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>92</value>
+				</Data>
+			</ExtendedData>
+			<address>WAKEFIELD</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> PACIFIC NORTHWEST<br>
+<b>Sum of Frequency:</b> 92
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>92</value>
+				</Data>
+			</ExtendedData>
+			<address>PACIFIC NORTHWEST</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> East Coast<br>
+<b>Sum of Frequency:</b> 92
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>92</value>
+				</Data>
+			</ExtendedData>
+			<address>East Coast</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Vatican<br>
+<b>Sum of Frequency:</b> 91
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>91</value>
+				</Data>
+			</ExtendedData>
+			<address>Vatican</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Little Saskatchewan River<br>
+<b>Sum of Frequency:</b> 91
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>91</value>
+				</Data>
+			</ExtendedData>
+			<address>Little Saskatchewan River</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> WEST BANK<br>
+<b>Sum of Frequency:</b> 91
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>91</value>
+				</Data>
+			</ExtendedData>
+			<address>WEST BANK</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Yemeni<br>
+<b>Sum of Frequency:</b> 91
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>91</value>
+				</Data>
+			</ExtendedData>
+			<address>Yemeni</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CONNECTICUT<br>
+<b>Sum of Frequency:</b> 90
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>90</value>
+				</Data>
+			</ExtendedData>
+			<address>CONNECTICUT</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LEAMINGTON<br>
+<b>Sum of Frequency:</b> 90
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>90</value>
+				</Data>
+			</ExtendedData>
+			<address>LEAMINGTON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CROSS LAKE<br>
+<b>Sum of Frequency:</b> 90
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>90</value>
+				</Data>
+			</ExtendedData>
+			<address>CROSS LAKE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Spadina<br>
+<b>Sum of Frequency:</b> 90
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>90</value>
+				</Data>
+			</ExtendedData>
+			<address>Spadina</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SINGAPORE<br>
+<b>Sum of Frequency:</b> 90
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>90</value>
+				</Data>
+			</ExtendedData>
+			<address>SINGAPORE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> North Atlantic<br>
+<b>Sum of Frequency:</b> 90
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>90</value>
+				</Data>
+			</ExtendedData>
+			<address>North Atlantic</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BAY OF FUNDY<br>
+<b>Sum of Frequency:</b> 90
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>90</value>
+				</Data>
+			</ExtendedData>
+			<address>BAY OF FUNDY</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Fort Chipewyan<br>
+<b>Sum of Frequency:</b> 89
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>89</value>
+				</Data>
+			</ExtendedData>
+			<address>Fort Chipewyan</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Williams Lake<br>
+<b>Sum of Frequency:</b> 89
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>89</value>
+				</Data>
+			</ExtendedData>
+			<address>Williams Lake</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bosnia<br>
+<b>Sum of Frequency:</b> 89
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>89</value>
+				</Data>
+			</ExtendedData>
+			<address>Bosnia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> GREEN<br>
+<b>Sum of Frequency:</b> 89
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>89</value>
+				</Data>
+			</ExtendedData>
+			<address>GREEN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTH PACIFIC COAST<br>
+<b>Sum of Frequency:</b> 89
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>89</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTH PACIFIC COAST</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> New Orleans<br>
+<b>Sum of Frequency:</b> 88
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>88</value>
+				</Data>
+			</ExtendedData>
+			<address>New Orleans</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> North<br>
+<b>Sum of Frequency:</b> 88
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>88</value>
+				</Data>
+			</ExtendedData>
+			<address>North</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Hudson<br>
+<b>Sum of Frequency:</b> 88
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>88</value>
+				</Data>
+			</ExtendedData>
+			<address>Hudson</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Qatif<br>
+<b>Sum of Frequency:</b> 88
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>88</value>
+				</Data>
+			</ExtendedData>
+			<address>Qatif</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> York<br>
+<b>Sum of Frequency:</b> 88
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>88</value>
+				</Data>
+			</ExtendedData>
+			<address>York</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LGBTQ ,<br>
+<b>Sum of Frequency:</b> 88
+</div>]]></description>
+			<styleUrl>#Style2-point-8</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>88</value>
+				</Data>
+			</ExtendedData>
+			<address>LGBTQ ,</address>
+		</Placemark>
+		<Style id='Style2-point-9'>
+			<IconStyle>
+				<color>ff00ffff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> OREGON<br>
+<b>Sum of Frequency:</b> 87
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>87</value>
+				</Data>
+			</ExtendedData>
+			<address>OREGON</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Charlotte Gill Lakeland<br>
+<b>Sum of Frequency:</b> 87
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>87</value>
+				</Data>
+			</ExtendedData>
+			<address>Charlotte Gill Lakeland</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Central America<br>
+<b>Sum of Frequency:</b> 87
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>87</value>
+				</Data>
+			</ExtendedData>
+			<address>Central America</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> South Niagara<br>
+<b>Sum of Frequency:</b> 87
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>87</value>
+				</Data>
+			</ExtendedData>
+			<address>South Niagara</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> VIRGINIA<br>
+<b>Sum of Frequency:</b> 86
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>86</value>
+				</Data>
+			</ExtendedData>
+			<address>VIRGINIA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Barriere Lake<br>
+<b>Sum of Frequency:</b> 86
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>86</value>
+				</Data>
+			</ExtendedData>
+			<address>Barriere Lake</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Eldorado<br>
+<b>Sum of Frequency:</b> 86
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>86</value>
+				</Data>
+			</ExtendedData>
+			<address>Eldorado</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> DALLAS<br>
+<b>Sum of Frequency:</b> 86
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>86</value>
+				</Data>
+			</ExtendedData>
+			<address>DALLAS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BOLD NEBRASKA<br>
+<b>Sum of Frequency:</b> 86
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>86</value>
+				</Data>
+			</ExtendedData>
+			<address>BOLD NEBRASKA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Thessaloniki<br>
+<b>Sum of Frequency:</b> 86
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>86</value>
+				</Data>
+			</ExtendedData>
+			<address>Thessaloniki</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NORTH CAROLINA<br>
+<b>Sum of Frequency:</b> 84
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>84</value>
+				</Data>
+			</ExtendedData>
+			<address>NORTH CAROLINA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Truro , Nova Scotia<br>
+<b>Sum of Frequency:</b> 84
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>84</value>
+				</Data>
+			</ExtendedData>
+			<address>Truro , Nova Scotia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Sidney<br>
+<b>Sum of Frequency:</b> 83
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>83</value>
+				</Data>
+			</ExtendedData>
+			<address>Sidney</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Arctic Ocean<br>
+<b>Sum of Frequency:</b> 82
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>82</value>
+				</Data>
+			</ExtendedData>
+			<address>Arctic Ocean</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Daylu Dena First Nation<br>
+<b>Sum of Frequency:</b> 82
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>82</value>
+				</Data>
+			</ExtendedData>
+			<address>Daylu Dena First Nation</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Ramadan<br>
+<b>Sum of Frequency:</b> 82
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>82</value>
+				</Data>
+			</ExtendedData>
+			<address>Ramadan</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> FORT YORK<br>
+<b>Sum of Frequency:</b> 82
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>82</value>
+				</Data>
+			</ExtendedData>
+			<address>FORT YORK</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SHANGHAI<br>
+<b>Sum of Frequency:</b> 82
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>82</value>
+				</Data>
+			</ExtendedData>
+			<address>SHANGHAI</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Aurora<br>
+<b>Sum of Frequency:</b> 81
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>81</value>
+				</Data>
+			</ExtendedData>
+			<address>Aurora</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Simcoe County<br>
+<b>Sum of Frequency:</b> 81
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>81</value>
+				</Data>
+			</ExtendedData>
+			<address>Simcoe County</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Indiana<br>
+<b>Sum of Frequency:</b> 81
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>81</value>
+				</Data>
+			</ExtendedData>
+			<address>Indiana</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Tahrir<br>
+<b>Sum of Frequency:</b> 81
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>81</value>
+				</Data>
+			</ExtendedData>
+			<address>Tahrir</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Phoenix<br>
+<b>Sum of Frequency:</b> 81
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>81</value>
+				</Data>
+			</ExtendedData>
+			<address>Phoenix</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LONG HARBOUR<br>
+<b>Sum of Frequency:</b> 80
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>80</value>
+				</Data>
+			</ExtendedData>
+			<address>LONG HARBOUR</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> EASTERN EUROPE<br>
+<b>Sum of Frequency:</b> 80
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>80</value>
+				</Data>
+			</ExtendedData>
+			<address>EASTERN EUROPE</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Alberta Cameron<br>
+<b>Sum of Frequency:</b> 80
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>80</value>
+				</Data>
+			</ExtendedData>
+			<address>Alberta Cameron</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SOURIS<br>
+<b>Sum of Frequency:</b> 80
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>80</value>
+				</Data>
+			</ExtendedData>
+			<address>SOURIS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> LOUISIANA<br>
+<b>Sum of Frequency:</b> 80
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>80</value>
+				</Data>
+			</ExtendedData>
+			<address>LOUISIANA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> NEWTOWN<br>
+<b>Sum of Frequency:</b> 80
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>80</value>
+				</Data>
+			</ExtendedData>
+			<address>NEWTOWN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Gujarat<br>
+<b>Sum of Frequency:</b> 80
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>80</value>
+				</Data>
+			</ExtendedData>
+			<address>Gujarat</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ESQUIMALT<br>
+<b>Sum of Frequency:</b> 80
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>80</value>
+				</Data>
+			</ExtendedData>
+			<address>ESQUIMALT</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Brandon<br>
+<b>Sum of Frequency:</b> 79
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>79</value>
+				</Data>
+			</ExtendedData>
+			<address>Brandon</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Skeena<br>
+<b>Sum of Frequency:</b> 79
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>79</value>
+				</Data>
+			</ExtendedData>
+			<address>Skeena</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Lake Michigan<br>
+<b>Sum of Frequency:</b> 78
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>78</value>
+				</Data>
+			</ExtendedData>
+			<address>Lake Michigan</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Bay<br>
+<b>Sum of Frequency:</b> 78
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>78</value>
+				</Data>
+			</ExtendedData>
+			<address>Bay</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> BERN<br>
+<b>Sum of Frequency:</b> 78
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>78</value>
+				</Data>
+			</ExtendedData>
+			<address>BERN</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MONTANA<br>
+<b>Sum of Frequency:</b> 78
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>78</value>
+				</Data>
+			</ExtendedData>
+			<address>MONTANA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> SOUTH CAROLINA<br>
+<b>Sum of Frequency:</b> 77
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>77</value>
+				</Data>
+			</ExtendedData>
+			<address>SOUTH CAROLINA</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> CHILLIWACK<br>
+<b>Sum of Frequency:</b> 77
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>77</value>
+				</Data>
+			</ExtendedData>
+			<address>CHILLIWACK</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Maui<br>
+<b>Sum of Frequency:</b> 76
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>76</value>
+				</Data>
+			</ExtendedData>
+			<address>Maui</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Ethiopia<br>
+<b>Sum of Frequency:</b> 76
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>76</value>
+				</Data>
+			</ExtendedData>
+			<address>Ethiopia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Damascus<br>
+<b>Sum of Frequency:</b> 76
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>76</value>
+				</Data>
+			</ExtendedData>
+			<address>Damascus</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> MARYLAND<br>
+<b>Sum of Frequency:</b> 76
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>76</value>
+				</Data>
+			</ExtendedData>
+			<address>MARYLAND</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> ILLINOIS<br>
+<b>Sum of Frequency:</b> 75
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>75</value>
+				</Data>
+			</ExtendedData>
+			<address>ILLINOIS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> OUTAOUAIS<br>
+<b>Sum of Frequency:</b> 75
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>75</value>
+				</Data>
+			</ExtendedData>
+			<address>OUTAOUAIS</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Elsipogtog First Nation , New Brunswick<br>
+<b>Sum of Frequency:</b> 75
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>75</value>
+				</Data>
+			</ExtendedData>
+			<address>Elsipogtog First Nation , New Brunswick</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Fort St.John<br>
+<b>Sum of Frequency:</b> 75
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>75</value>
+				</Data>
+			</ExtendedData>
+			<address>Fort St.John</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> Slovenia<br>
+<b>Sum of Frequency:</b> 75
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>75</value>
+				</Data>
+			</ExtendedData>
+			<address>Slovenia</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>CPP 201508:</b> RUDDOCK CREEK<br>
+<b>Sum of Frequency:</b> 74
+</div>]]></description>
+			<styleUrl>#Style2-point-9</styleUrl>
+			<ExtendedData>
+				<Data name='Sum of Frequency'>
+					<value>74</value>
+				</Data>
+			</ExtendedData>
+			<address>RUDDOCK CREEK</address>
+		</Placemark>
+	</Document>
+</kml>

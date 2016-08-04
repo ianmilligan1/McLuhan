@@ -1,0 +1,186 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5020,        177]
+NotebookOptionsPosition[      4184,        143]
+NotebookOutlinePosition[      4543,        159]
+CellTagsIndexPosition[      4500,        156]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ StyleBox["Binning for NER Frequency Map\n", "Title"],
+ StyleBox["Ian Milligan - 3 August 2016", "Chapter"]
+}], "Text",
+ CellChangeTimes->{{3.6792261692631207`*^9, 3.679226174998259*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"csv", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{
+    "\"\</users/ianmilligan1/Dropbox/git/McLuhan/NER/openrefine-frequencies/\
+loc/All-Together.csv\>\"", ",", "\"\<Data\>\""}], "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.679225825621792*^9, 3.679225847195497*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"freq201508", "=", 
+   RowBox[{"Drop", "[", 
+    RowBox[{
+     RowBox[{"csv", "[", 
+      RowBox[{"[", 
+       RowBox[{"All", ",", "2"}], "]"}], "]"}], ",", "1"}], "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.679225848066455*^9, 3.679225895238818*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"freq201511", "=", 
+   RowBox[{"Drop", "[", 
+    RowBox[{
+     RowBox[{"csv", "[", 
+      RowBox[{"[", 
+       RowBox[{"All", ",", "4"}], "]"}], "]"}], ",", "1"}], "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.679225848066455*^9, 3.67922589155934*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"elxn201601", "=", 
+   RowBox[{"Drop", "[", 
+    RowBox[{
+     RowBox[{"csv", "[", 
+      RowBox[{"[", 
+       RowBox[{"All", ",", "6"}], "]"}], "]"}], ",", "1"}], "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.679225848066455*^9, 3.679225907382215*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"Length", "[", "elxn201601", "]"}], "/", "10"}], "//", 
+  "N"}]], "Input",
+ CellChangeTimes->{{3.679225967597258*^9, 3.679225973392742*^9}}],
+
+Cell[BoxData["49.5`"], "Output",
+ CellChangeTimes->{{3.679225969418551*^9, 3.679225973737615*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Reverse", "[", 
+  RowBox[{
+   RowBox[{"Partition", "[", 
+    RowBox[{"elxn201601", ",", "49"}], "]"}], "[", 
+   RowBox[{"[", 
+    RowBox[{"All", ",", "1"}], "]"}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.679225959635722*^9, 3.679226020777936*^9}, {
+  3.679226148616766*^9, 3.679226150672059*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "329", ",", "398", ",", "493", ",", "671", ",", "846", ",", "1236", ",", 
+   "1855", ",", "3476", ",", "7109", ",", "457515"}], "}"}]], "Output",
+ CellChangeTimes->{{3.679225964124833*^9, 3.679226021233616*^9}, 
+   3.679226151040572*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Reverse", "[", 
+  RowBox[{
+   RowBox[{"Partition", "[", 
+    RowBox[{"freq201508", ",", "49"}], "]"}], "[", 
+   RowBox[{"[", 
+    RowBox[{"All", ",", "1"}], "]"}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.679226042460637*^9, 3.679226050303919*^9}, {
+  3.679226154329131*^9, 3.679226156991858*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "88", ",", "99", ",", "118", ",", "147", ",", "179", ",", "246", ",", "390",
+    ",", "749", ",", "1644", ",", "283162"}], "}"}]], "Output",
+ CellChangeTimes->{3.679226050930211*^9, 3.679226157344256*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Reverse", "[", 
+  RowBox[{
+   RowBox[{"Partition", "[", 
+    RowBox[{"freq201511", ",", "49"}], "]"}], "[", 
+   RowBox[{"[", 
+    RowBox[{"All", ",", "1"}], "]"}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.679226059576885*^9, 3.679226063510725*^9}, {
+  3.6792261587679567`*^9, 3.6792261609194527`*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+  "116", ",", "138", ",", "177", ",", "227", ",", "287", ",", "424", ",", 
+   "566", ",", "882", ",", "2272", ",", "372903"}], "}"}]], "Output",
+ CellChangeTimes->{{3.679226060185152*^9, 3.67922606392248*^9}, 
+   3.679226161353607*^9}]
+}, Open  ]]
+},
+WindowSize->{808, 905},
+WindowMargins->{{Automatic, -168}, {Automatic, 0}},
+FrontEndVersion->"10.3 for Mac OS X x86 (32-bit, 64-bit Kernel) (December 10, \
+2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 203, 4, 110, "Text"],
+Cell[764, 26, 306, 7, 80, "Input"],
+Cell[1073, 35, 292, 9, 28, "Input"],
+Cell[1368, 46, 291, 9, 28, "Input"],
+Cell[1662, 57, 292, 9, 28, "Input"],
+Cell[CellGroupData[{
+Cell[1979, 70, 186, 5, 28, "Input"],
+Cell[2168, 77, 98, 1, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2303, 83, 326, 8, 28, "Input"],
+Cell[2632, 93, 279, 6, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2948, 104, 326, 8, 28, "Input"],
+Cell[3277, 114, 246, 5, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3560, 124, 330, 8, 28, "Input"],
+Cell[3893, 134, 275, 6, 28, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
