@@ -1,0 +1,601 @@
+    686 Alberta Education 
+     32 ICT 
+     29 University of Alberta 
+     16 DAIR 
+     16 CANARIE 
+     16 Alberta Learning Information Service 
+     15 Comments Information and Communication Technology Specific Outcomes Division 
+     11 University of Calgary 
+      9 PML 
+      9 Media Awareness Network 
+      9 CMEC 
+      9 Advanced Research and Innovation Network 
+      8 Association 
+      7 Microsoft 
+      6 PASI 
+      6 Modern Language Review 
+      6 Google 
+      5 University of Victoria 
+      5 University of Oslo 
+      5 University of Campinas 
+      5 TIMSS 
+      5 School of Electrical 
+      5 REM Technologies 
+      5 Precise Transcript Management Ltd 
+      5 OpenStack User Group 
+      5 NEP 
+      5 LRC 
+      5 IntelliView Technologies Howard Malm 
+      5 Institute for Space Science 
+      5 CPF Alberta News 
+      5 CANARIE Inc. 
+      5 Calgary Cyberport 
+      5 CAA 
+      5 Andoya Rocket Range 
+      5 Alberta Regional Professional Development Consortia 
+      5 Alberta Advanced Education 
+      4 par Alberta Education 
+      4 NSF 
+      4 Nelson Education Pearson Education Pearson Math 
+      4 Facebook 
+      4 ESRI 
+      4 Comments International Languages Programs Language 
+      4 Comments Information and Communication Technology ICT 
+      4 Alberta Teachers 
+      3 Technology Research School Technology Sector 
+      3 Sine 
+      3 Seattle Internet Exchange 
+      3 PISA 
+      3 Organisation de la ressource Organisation de la ressource Des 
+      3 Manitoba Education 
+      3 Management Consulting Inc. 
+      3 Life Management 
+      3 LHC 
+      3 K 
+      3 Innovate Calgary 
+      3 Howard Research 
+      3 Galileo 
+      3 First Nations 
+      3 Education Society 
+      3 Cybera Inc. 
+      3 CPF Alberta News 95 
+      3 Compute Canada 
+      3 Comments International Languages Programs Elementary Junior 
+      3 CBC 
+      3 Catholic 
+      3 Calgary Board of Education 
+      3 ATL 
+      2 Westwind School 
+      2 Wellness Education 
+      2 WCP 
+      2 University of New Brunswick 
+      2 The University of Alberta 
+      2 SuperNet Service Funding 
+      2 Space Science Data Portal 
+      2 Society 
+      2 School Technology Sector 
+      2 Robin Winsor Network News 
+      2 Rackspace 
+      2 Quelle 
+      2 PATI 
+      2 Parliament Hill 
+      2 par Elections Alberta 
+      2 Palliser Regional Schools 
+      2 Mount Royal University 
+      2 Microsoft Office Suite 
+      2 Microsoft Office 
+      2 Metiri Group 
+      2 MDC 
+      2 Manipulation of Data 
+      2 Limited Formal Schooling 
+      2 Learning Technologies 
+      2 Learning Disabilities Association of Manitoba 
+      2 ITAC 
+      2 IPP 
+      2 Internet Alberta Education 
+      2 GreenStar Network 
+      2 Green Information Technology 
+      2 FNMI 
+      2 First Nation 
+      2 Field Review 
+      2 Faculty of Medicine 
+      2 ESRI Canada 
+      2 ESO 
+      2 Environmental Hub 
+      2 Educational Technology Council of the Alberta Teachers 
+      2 DPA 
+      2 Department of Computing Science 
+      2 Cummins 
+      2 CTI 
+      2 CPF Alberta Newsletter 
+      2 Council of Ministers of Education 
+      2 Cortex 
+      2 Communication Technologies 
+      2 Comments International Languages Programs Elementary Junior High Learning 
+      2 Cloud Services for Water Management 
+      2 CBC Radio 
+      2 Cambrian House 
+      2 Calgary Technologies Inc. 
+      2 Alberta Technology Leaders in Education 
+      2 Alberta Mental Health Board 
+      2 Alberta Innovation Voucher Pilot Program 
+      2 AISI 
+      1 YouTube 
+      1 Wireless Learning Symposium Alberta Education 
+      1 Winsor 
+      1 Winnipeg Convention Centre 
+      1 Wikipedia 
+      1 West Island School Commission 
+      1 WestGrid Financials Information on WestGrid 
+      1 Western Canada 
+      1 Warwick Prize 
+      1 Voici 
+      1 Videoconferencing Research Projects Alberta Education 
+      1 Videoconferencing Alberta Education 
+      1 Victorian Partnership for Advanced Computing 
+      1 VC Regional Leads Network 
+      1 Vancouver BC 
+      1 Value of Collaboration Metiri 
+      1 Updates Alberta Apprenticeship and Industry Training 
+      1 University Technologies International 
+      1 University of Western Ontario 
+      1 University of Warwick 
+      1 University of Toronto 
+      1 University of Texas 
+      1 University of Saskatchewan 
+      1 University of Minnesota 
+      1 University of Lethbridge University of Calgary University of Alberta February 8 
+      1 University of Lethbridge 
+      1 University of Canberra 
+      1 University of Calgary Research Park 
+      1 University of Calgary Cybera 
+      1 University of British Columbia 
+      1 University of Alberta Faculty Club 
+      1 University of Alberta ELA 
+      1 University of Alberta Earth and Atmospheric Sciences 
+      1 University of Alberta Career Fair 
+      1 University of Alberta Alberta Innovates 
+      1 University College ELA 
+      1 United Nations 
+      1 Toronto French School 
+      1 Toronto Chapter 
+      1 Toronto Board of Education 
+      1 The Ukrainian Language Arts 
+      1 The Canadian Higher Education and Information Technology Conference 
+      1 The Board of Directors of Compute Canada 
+      1 The Board of Directors of Alberta 
+      1 Tesera Systems Inc. 
+      1 Tesera Systems 
+      1 Telus 
+      1 TELUS 
+      1 Technology Planning 
+      1 Teaching Practices Leading Innovation Stakeholder Events Alberta Education 
+      1 Teacher Resource Grade 
+      1 Teacher Guide Resource Development Services 
+      1 Teacher Book Resource Development Services 
+      1 s Vision Alberta Education 
+      1 Supplément Voici 
+      1 SuperNet Service 
+      1 Sun Microsystems of Canada Inc. 
+      1 Successful Applicants Alberta Education 
+      1 Struggling Learners 
+      1 Stratford Managers Corporation 
+      1 Strategies 
+      1 Stony Plain AB 
+      1 St. Mary 
+      1 St. Lambert Bilingual School Study Group 
+      1 Startup Canada Campaign 
+      1 Stantec Inc. 
+      1 Standards for Special Education 
+      1 St. Albert Catholic Regional Division GSACRD 
+      1 St. Albert AB 
+      1 Space Science Data Porta 
+      1 Space Agency 
+      1 Southern Alberta CTS Learning and Teaching Resource Review Centre Education Centre Room 
+      1 Society for Educational Visits 
+      1 Social Studies Program of Studies 
+      1 Social Studies 
+      1 Smithsonian Folklife Festival 2006 Alberta Education 
+      1 Simon Fraser University 
+      1 Siemens 
+      1 Sheridan College 
+      1 Shell 
+      1 Shaw Conference Centre 
+      1 Shaw Cable 
+      1 Shared Services Solutions Northern Consortium Northland School 
+      1 s French Language Education Services 
+      1 SETT 
+      1 Services 
+      1 Senior Network Analyst 
+      1 Sections Alberta Learning Information Service 
+      1 Second Language Cours 
+      1 Secondary Studies 
+      1 s County Central High School 
+      1 s College ELA 
+      1 School Technology Services Program 
+      1 School Technology Services Courses Alberta Education 
+      1 School Technology Services 
+      1 SBIR 
+      1 Rutgers University 
+      1 Royal Canadian Mounted Police Heritage Centre 
+      1 Ross Mitchell of Calgary Scientific 
+      1 Ross Glen Hall of Mount Royal University 
+      1 Rockies Regional 
+      1 Resource Authorization Categories 
+      1 Research 
+      1 Renseignements 
+      1 Regional Education Laboratory 
+      1 Regional Developments in Advanced Networks 
+      1 Reggio Emilia 
+      1 Reform Party of Canada 
+      1 Red Deer AB 
+      1 Red Deer 
+      1 Recreation and Human Services 
+      1 Recreation 
+      1 Rackspace Cloud Builders 
+      1 Quebec 
+      1 Punjabi Language 
+      1 Public Service Commission of Canada 
+      1 Public Sector Research 
+      1 Publications Alberta Education 
+      1 Provost 
+      1 Provincial Advisory Committee 
+      1 Projects Authority Name Black Gold Regional 
+      1 ProGuide Pearson Education Pearson Education Pearson Education Pearson Math 
+      1 Program of Studies 
+      1 President of Information Technology 
+      1 Poynt Corporation 
+      1 Port Coquitlam BC 
+      1 Portage College ELA 
+      1 Port 
+      1 Physical Education Kindergarten 
+      1 Pfizer 
+      1 Pennsylvania State University 
+      1 P.E.I. 
+      1 Peel County Board of Education 
+      1 Pearson Education 
+      1 Parkland School 
+      1 Parents Courtesy of the Alberta Regional Professional Development Consortia Curriculum Handbooks 
+      1 Palliser 
+      1 Pacific Education Press 
+      1 Pacific Educational Press Pacific Educational Press 
+      1 Outils 
+      1 Our School 
+      1 ORION 
+      1 Organization for Economic Cooperation and Development 
+      1 Ontario Institute for Cancer Research 
+      1 Ontario 
+      1 Okaki Health Intelligence 
+      1 OISE Press 
+      1 Northland School 
+      1 North American Enterprise Linux 
+      1 NorQuest College ELA 
+      1 Nintendo 
+      1 New School Technology Services 
+      1 New Ideas for Shared Solutions 
+      1 New Brunswick Teachers 
+      1 Network Planning 
+      1 Network Access Control 
+      1 Nelson Education Pearson Math 
+      1 Nazarene University College ELA 
+      1 NATO 
+      1 Native Languages Home Page Western 
+      1 National Solutions 
+      1 National Lab Metiri Group 
+      1 National Capital Region 
+      1 MyWorld Student Resource Wireless Local Area Network 
+      1 Murtaugh 
+      1 Mount Royal College ELA 
+      1 Montgomery County Public Schools 
+      1 MoboVivo Inc. 
+      1 MLA 
+      1 Ministry of Education 
+      1 Microsoft License for Office 
+      1 Microsoft Canada 
+      1 Metro Toronto Convention Center 
+      1 Metiri Learning 
+      1 Medicine Hat College ELA 
+      1 Media Awareness Network Resources 
+      1 McGill University Michel Vanier 
+      1 McGill University 
+      1 Manitoba Branch 
+      1 Management 
+      1 Livingstone Range School 
+      1 Life Management Program Update Program Update Alberta Education 
+      1 Life Management Programs of Study Elementary 
+      1 Life Management Program of Studies 
+      1 Life Management Learning and Teaching Resources Health 
+      1 Life Management Health and Life Skills Guide 
+      1 Life Management Career and Life Management Guide 
+      1 Life Management Authorized Resource List 
+      1 LHC Grid Fest 
+      1 Lethbridge Community College ELA 
+      1 Les Éditions des Plaines Mathématiques 
+      1 Les Éditions des 
+      1 Le personnel de Alberta Education 
+      1 Le FRANCO 
+      1 Le Edmonton Regional Learning Consortium 
+      1 Learning Resources Centre 
+      1 Learning Disabilities Association of Alberta 
+      1 Learning Disabilities 
+      1 La Ronde 
+      1 La Presse 
+      1 Language Immersion Education 
+      1 Language and Literacy Research Network 
+      1 Landroit 
+      1 Jeunesse Canada 
+      1 IT Management and Information Security Management 
+      1 ISTE 
+      1 ISS 
+      1 Interprovincial Information Base 
+      1 International Strategic Advisory Committee Upcoming 
+      1 International Society for Technology in Education 
+      1 International Red Cross 
+      1 International Olympic Committee 
+      1 International Mathematics and Science Study 
+      1 International Collegiate Programming Contest 
+      1 Intel Corporation 
+      1 Institute for Biocomplexity 
+      1 Inspiring Education 
+      1 Innovative Technology Management Solutions Wolf Creek School 
+      1 Innovative Technology Management Solutions Chinook 
+      1 Infrastructure and Services 
+      1 Infrastructure 
+      1 Information Technology Association of Canada 
+      1 Information Security Management Information Security Management 
+      1 Information and Communications Technology Industry 
+      1 Information and Communications Technologies 
+      1 Industry Perspectives 
+      1 Indiana University 
+      1 Increasing School Technology Leadership 
+      1 Inc. 
+      1 ICPC 
+      1 ICF 
+      1 IBM 
+      1 IBI Group 
+      1 Human Services 
+      1 Hubble Space Telescope 
+      1 HPC and Education 
+      1 House of Commons 
+      1 House 
+      1 Hill Ryerson Pearson Education Pearson Math 
+      1 Hill Ryerson Mathematics 
+      1 Hill 
+      1 Heritage and Official Languages 
+      1 Heritage and Industry Canada 
+      1 Health Innovation and Technology Information Center 
+      1 Health Care Services 
+      1 Harvard University 
+      1 GTEC 2008 Award of Distinction Alberta Education 
+      1 GreenStar Network Infrastructure Working Group 
+      1 Greater Southern Separate Catholic Francophone Education Region 
+      1 Greater Southern Public Francophone Education Region Infusion Of Technology Within 
+      1 Graduate Studies 
+      1 Global Petroleum Career Exposition 
+      1 Geomatics 
+      1 General Language Education 
+      1 Galileo Educational Network Association 
+      1 FSL Nineyear Program of Studies 
+      1 FSL 
+      1 French Immersion Administrators 
+      1 Fort Vermilion School 
+      1 Flory Academy of Sciences and Technology 
+      1 FLA 
+      1 FIPSE 
+      1 Fairview College ELA 
+      1 Faculty of Science of the University of Manitoba 
+      1 Faculty of Science Associate Dean 
+      1 Faculty of Science 
+      1 Faculty Club 
+      1 Fabrics Services 
+      1 External Review Committee 
+      1 Evaluation Metiri 
+      1 Evaluation Guide The School Technology Services 
+      1 Evaluation Guide 
+      1 European Economic Community 
+      1 ESL Education 
+      1 ESF 
+      1 Ernest C. Manning Foundation 
+      1 Ernest C. Manning Awards Foundation 
+      1 Entrance Requirements Poster Alberta Apprenticeship and Industry Training 
+      1 Enterprise Client Access License Agreement Alberta Education 
+      1 Enhancing Information Technology Leadership Capacity Northern 
+      1 Enable Accountability Alberta Learning 
+      1 Emerge Community of Practice 
+      1 Elk Island Public Schools Regional 
+      1 Elgg Camp Boston 
+      1 Élèves Alberta Learning Information Service 
+      1 Educators Authorized Resources Section Navigation Pearson Education Pearson Math 
+      1 Education Standing Offers Alberta Education 
+      1 Educational Technology 
+      1 Edmonton School 
+      1 Edmonton Regional Learning Consortium 
+      1 Edmonton Public Schools Maximizing Math 
+      1 Edmonton Public Schools Grade 
+      1 Edmonton Public Schools 
+      1 Edmonton Public School Board EPSB Initiatives 
+      1 Edmonton Public 
+      1 Edmonton Licensing Executives Luncheon 
+      1 Edmonton Lethbridge Small Business Week 
+      1 Edmonton Journal 
+      1 Edmonton Council for Advanced Technology 
+      1 Edmonton Catholic Separate School District myECSD 
+      1 Edmonton Catholic Schools 
+      1 Edmonton 
+      1 Edge School Division Technology Mediated Learning 
+      1 ECS 
+      1 Earth Observation Science 
+      1 District Catholic Schools Technology 
+      1 Distance Delivery Outside Alberta Application 
+      1 Dirren 
+      1 Digital Solutions Alliance 
+      1 Digital Divide Northern Lights School 
+      1 Digital Citizenship Section Navigation The Media Awareness Network 
+      1 Digital Alberta AGM 
+      1 Digital 
+      1 Deploy System for Spatial Data Visualization and Analysis 
+      1 Department of Computer Science 
+      1 Dean of Science 
+      1 Davis LLP Alberta Innovates 
+      1 DAIR Program 
+      1 Cybera Communications 
+      1 Cybera AGM in Calgary 
+      1 Cybera 
+      1 Curriculum Summaries and Curriculum Express 
+      1 Curriculum Express for Parents 
+      1 CTS Learning and Teaching Resource Review Centres 
+      1 CTO 
+      1 CSSA 
+      1 Crystal 
+      1 CRTC 
+      1 Cree Language 
+      1 CRC 
+      1 CPF National News 
+      1 CPF 
+      1 Course Delivery Within Alberta Application 
+      1 Cortex Business Solutions Inc. 
+      1 Coquitlam 
+      1 Contacts Alberta Education 
+      1 Congress 
+      1 Concordia University College of Alberta ELA 
+      1 Concordia 
+      1 Computer Engineering Graduate Reseach Sympsosium 
+      1 Comments Technology in Schools The School Technology Services 
+      1 Comments Technology in Schools Section Navigation Alberta Education 
+      1 Comments Technology in Schools Research and Publications Alberta Education 
+      1 Comments Technology in Schools Alberta Education 
+      1 Comments Technology in Education Videos Alberta Education 
+      1 Comments Technology and High School Success Participants Organization Boyle Street Education Centre 
+      1 Comments Technology and High School Success Contact Us Section Navigation Lynda Burgess Project 
+      1 Comments Teachers Programs of Study Alberta 
+      1 Comments Teacher Resources Daily Physical Activity Initiative Alberta Education 
+      1 Comments Special Education Section Navigation Requirements for Special Education 
+      1 Comments Special Education Access 
+      1 Comments Special Education 
+      1 Comments Social Studies Social Studies Guide 
+      1 Comments Social Studies Elementary Information Related 
+      1 Comments Sciences 
+      1 Comments Resources for Parents Curriculum Express Curriculum Express for Parents 
+      1 Comments Research and Publications Tech.News Monthly Newsletter Tech.News 
+      1 Comments Research and Publications Section Navigation Alberta Education Cataloguing In Publication Data 
+      1 Comments Programs of Study The Social Sciences 
+      1 Comments Programs of Study Section Navigation Career and Technology Studies 
+      1 Comments Programs of Study Program Update Alberta Education 
+      1 Comments Programs of Study International Languages Programs 
+      1 Comments Physical Education Section Navigation Kindergarten 
+      1 Comments Physical Education Program Update Program Update Alberta Education 
+      1 Comments Physical Education Heart Health Section Navigation A Resource for Senior High School Physical Education 
+      1 Comments Physical Education Early Childhood Services 
+      1 Comments National and International Testing 
+      1 Comments Mathématiques 
+      1 Comments Maternelle Le 
+      1 Comments Maternelle Autres Sections Maternelle 
+      1 Comments International Languages Programs Ukrainian Language Arts Kindergarten 
+      1 Comments International Languages Programs Ukrainian Language Arts Grades 
+      1 Comments International Languages Programs Ukrainian Language Arts 
+      1 Comments International Languages Programs Ukrainian Language 
+      1 Comments International Languages Programs Punjabi 
+      1 Comments International Languages Programs German Language 
+      1 Comments International Languages Programs Elementary Junior High Chinese Language Arts Chinese Language 
+      1 Comments International Languages Program Language 
+      1 Comments Information and Communication Technology The Information and Communication Technology 
+      1 Comments Information and Communication Technology Learning 
+      1 Comments Diploma Examination Information Bulletins Guidelines for Digits 
+      1 Comments Curriculum Handbooks for Parents Alberta Education 
+      1 Comments Career and Technology Studies Section Navigation 
+      1 Comments Career and Technology Studies NAT 
+      1 Comments Career and Technology Studies Learning 
+      1 Comments Career and Technology Studies Health 
+      1 Comments Career and Technology Studies CTS News 
+      1 Comments Assistive Technology for Learning Section Navigation Media 
+      1 Comments Assistive Technology for Learning Section Navigation ATL 
+      1 Columbia Law School 
+      1 Columbia 
+      1 College of Alberta School Superintendents 
+      1 Collaborations 
+      1 CMC Microsystems 
+      1 CLP 
+      1 Citizenship Education 
+      1 Cisco Canada 
+      1 Christian Society 
+      1 Christian School 
+      1 Chinese Language 
+      1 Chemistry 
+      1 CERN 
+      1 Century Skills Metiri Group 
+      1 Centre for Earth Observation Science 
+      1 Central Office 
+      1 CCF 
+      1 Carleton Board of Education 
+      1 Career and Placement Services 
+      1 CANARIE Board 
+      1 Canadiens 
+      1 Canadian University Council of Chief Information Officers 
+      1 Canadian Space Agency 
+      1 Canadian Journal of Education 
+      1 Canadian Education Association 
+      1 Canadian Association of Immersion Teachers 
+      1 Canadian Assessment Program 
+      1 Canada Research Chair 
+      1 Calgary School District No. 
+      1 Calgary Latest News 
+      1 Calgary Cyberports 
+      1 Calgary Catholic School District Shepherding Students Towards Successful High School 
+      1 Calgary AB 
+      1 Calcul Canada Cloud 
+      1 BYOL 
+      1 BSEC 
+      1 BSD Foundation 
+      1 Bow Valley College ELA 
+      1 Board of Directors 
+      1 Blueprint Solutions 
+      1 Biologie 
+      1 Betach Solutions Inc. 
+      1 Berlitz Language Centres of Canada 
+      1 Bell Canada Returning 
+      1 Bell 
+      1 Beaumont AB 
+      1 BCNET 
+      1 Banff New Media Institute 
+      1 Banff Centre 
+      1 AXIA 
+      1 Augustana University College ELA 
+      1 Atlantic Regional Educational Laboratory 
+      1 Atlantic Provinces Educational Foundation 
+      1 Atlantic 
+      1 ATL Alberta Education 
+      1 Athabasca U Project News 
+      1 ASTech Foundation 
+      1 Associate 
+      1 Assembly Room 
+      1 Arthritis Society Research Chair 
+      1 Apple Computer Cisco IBM Intel 
+      1 Apple Computer 
+      1 Amazon 
+      1 Alberta Science and Technology Leadership Foundation 
+      1 Alberta Science and Technology 
+      1 Alberta School Councils 
+      1 Alberta Research and Innovation Authority 
+      1 Alberta Regional Professional Development Consortia Alberta Learning Information Service 
+      1 Alberta Regional Consortia Education Standing Offers Alberta Education 
+      1 Alberta Professional Development Regional Consortia 
+      1 Alberta Professional Development Consortium 
+      1 ALBERTA LEARNING Le 
+      1 Alberta Learning Information Services 
+      1 Alberta Learning and the College of Alberta School 
+      1 Alberta Innovation 
+      1 Alberta Ingenuity 
+      1 Alberta Information and Communication Technology 
+      1 Alberta Electrical 
+      1 Alberta Education La 
+      1 Alberta Apprenticeship and Industry Training Board 
+      1 AGM 
+      1 Advanced Technology Industries Division 
+      1 Advanced Research 
+      1 Advanced Networks 
+      1 Advanced Education and Technology 
+      1 Adobe Cumulative Licensing Program Alberta Education 
+      1 Adobe 
+      1 Admission Requirements for 
+      1 Access Federation 
+      1 Aboriginal Learning Services department of Edmonton Catholic Schools 

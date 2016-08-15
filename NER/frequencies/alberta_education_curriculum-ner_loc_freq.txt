@@ -1,0 +1,144 @@
+    495 Alberta 
+     95 Canada 
+     82 Edmonton 
+     55 Calgary 
+     45 French 
+     21 Cybera 
+     20 Alberta , 
+     12 Canada , 
+     10 Norway 
+      9 Ottawa 
+      9 Alberta Branch 
+      8 Calgary , 
+      8 ACELF , 
+      6 Banff , 
+      5 United States , 
+      5 Singapore 
+      5 Saskatchewan , Calgary 
+      5 Saskatchewan , 
+      5 Sao Paulo , Brazil 
+      5 Netherlands , 
+      5 Brazil , 
+      5 Brazil 
+      5 Banff Centre 
+      5 Alberta , Calgary 
+      4 Winnipeg 
+      4 United States 
+      4 Toronto 
+      4 Manitoba 
+      4 Lethbridge 
+      4 Edmonton , 
+      4 Cybera , 
+      4 Banff , Alberta 
+      4 Alberta Innovates 
+      4 Alberta Education , 
+      3 Spanish Language 
+      3 Saskatchewan 
+      3 Quebec , 
+      3 Ontario 
+      3 Metiri 
+      3 Banff 
+      2 Wolf Creek 
+      2 Vancouver , 
+      2 Quebec 
+      2 Punjabi Language 
+      2 Montreal 
+      2 Maternelle 
+      2 FLA 
+      2 Europe , 
+      2 Elk Island 
+      2 Cree Language 
+      2 CANARIE , Canada 
+      2 CANARIE , 
+      2 Calgary , Alberta 
+      2 British Columbia , 
+      2 Atlantic 
+      1 Washington , DC 
+      1 Vulcan , Alberta 
+      1 U.S. 
+      1 United Arab Emirates 
+      1 Ukrainian , 
+      1 Toronto , 
+      1 Tofino , 
+      1 The Banff Centre 
+      1 St. Paul 
+      1 St. Albert 
+      1 Spanish , 
+      1 Southern Alberta 
+      1 South American 
+      1 South America 
+      1 Silicon Valley , 
+      1 Seattle , WA , 
+      1 San Francisco 
+      1 Royal Glenora 
+      1 Rockville , Maryland , 
+      1 Red Deer 
+      1 Quebec , France , Switzerland 
+      1 Québec City , 
+      1 Québec City 
+      1 Punjabi , 
+      1 Port au Port Peninsula 
+      1 Port Alberni 
+      1 Pennsylvania 
+      1 Paris , 
+      1 Ottawa , Ontario , 
+      1 Ottawa , Ontario 
+      1 OTTAWA , 
+      1 Ontario , 
+      1 Olweus , 
+      1 OLWEUS , 
+      1 North America 
+      1 New Ideas 
+      1 Newfoundland 
+      1 New Brunswick , Nova Scotia 
+      1 Netera Alliance 
+      1 Nepean , 
+      1 Morinville , 
+      1 Moorpark , California 
+      1 Maine 
+      1 ISACA Edmonton , 
+      1 Irvine 
+      1 Inuvik 
+      1 Indiana 
+      1 Hawaii Telescope , 
+      1 Halifax 
+      1 Gatineau Park , 
+      1 Gatineau Hills 
+      1 Gaspé , 
+      1 France 
+      1 Flory 
+      1 Events Edmonton , 
+      1 Europe , Asia , 
+      1 Europe 
+      1 England , 
+      1 Edmontonians 
+      1 Edmonton , Alberta , 
+      1 Edmonton , Alberta 
+      1 Cybera Summit 08 
+      1 Cupertino , 
+      1 Cummins 
+      1 Cold Lake Area 
+      1 Clevedon 
+      1 Chinese Language 
+      1 Chéticamp 
+      1 Carnaval 
+      1 Caraquet , N.B. 
+      1 Cape Breton Island , N.S. 
+      1 Canadian 
+      1 Cambridge 
+      1 Burnaby , British Columbia , Canada , 
+      1 British Columbia 
+      1 Brampton , Ontario 
+      1 Biocomplexity 
+      1 Beaumont , 
+      1 BCNET , 
+      1 Banff Centre , 
+      1 Banff , Alberta , 
+      1 Australia , Singapore , China , 
+      1 Australia , Finland , Hong Kong , Singapore , Spain , 
+      1 Austin , Texas 
+      1 Austin 
+      1 Atlantic Lab , 
+      1 American 
+      1 Alberta , Saskatchewan 
+      1 Alberta Canada 
